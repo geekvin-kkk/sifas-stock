@@ -681,6 +681,7 @@ window.SIFAS_PRODUCTS = [
     "sourcePage": 30,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [],
+    "statusOverride": "stopped",
     "stockNote": "库存表未匹配到完整现货配置"
   },
   {
@@ -697,6 +698,7 @@ window.SIFAS_PRODUCTS = [
     "sourcePage": 30,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [],
+    "statusOverride": "stopped",
     "stockNote": "库存表未匹配到完整现货配置"
   },
   {
@@ -713,6 +715,7 @@ window.SIFAS_PRODUCTS = [
     "sourcePage": 30,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [],
+    "statusOverride": "stopped",
     "stockNote": "库存表未匹配到完整现货配置"
   },
   {
@@ -729,6 +732,7 @@ window.SIFAS_PRODUCTS = [
     "sourcePage": 30,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [],
+    "statusOverride": "stopped",
     "stockNote": "库存表未匹配到完整现货配置"
   },
   {
@@ -745,6 +749,7 @@ window.SIFAS_PRODUCTS = [
     "sourcePage": 30,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [],
+    "statusOverride": "stopped",
     "stockNote": "库存表未匹配到完整现货配置"
   },
   {
@@ -761,6 +766,7 @@ window.SIFAS_PRODUCTS = [
     "sourcePage": 31,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [],
+    "statusOverride": "stopped",
     "stockNote": "库存表未匹配到完整现货配置"
   },
   {
@@ -777,6 +783,7 @@ window.SIFAS_PRODUCTS = [
     "sourcePage": 31,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [],
+    "statusOverride": "stopped",
     "stockNote": "库存表未匹配到完整现货配置"
   },
   {
@@ -2741,6 +2748,7 @@ window.SIFAS_PRODUCTS = [
     "sourcePage": 102,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [],
+    "statusOverride": "stopped",
     "stockNote": "库存表未匹配到完整现货配置"
   },
   {
@@ -2772,6 +2780,7 @@ window.SIFAS_PRODUCTS = [
         "note": "可用 7"
       }
     ],
+    "statusOverride": "stopped",
     "stockNote": "1 个完整现货配置"
   },
   {
@@ -2788,6 +2797,7 @@ window.SIFAS_PRODUCTS = [
     "sourcePage": 102,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [],
+    "statusOverride": "stopped",
     "stockNote": "库存表未匹配到完整现货配置"
   },
   {
@@ -2819,6 +2829,7 @@ window.SIFAS_PRODUCTS = [
         "note": "可用 3"
       }
     ],
+    "statusOverride": "stopped",
     "stockNote": "1 个完整现货配置"
   },
   {
@@ -2850,6 +2861,7 @@ window.SIFAS_PRODUCTS = [
         "note": "可用 17"
       }
     ],
+    "statusOverride": "stopped",
     "stockNote": "1 个完整现货配置"
   },
   {
@@ -2881,6 +2893,7 @@ window.SIFAS_PRODUCTS = [
         "note": "可用 2"
       }
     ],
+    "statusOverride": "stopped",
     "stockNote": "1 个完整现货配置"
   },
   {
@@ -2897,6 +2910,7 @@ window.SIFAS_PRODUCTS = [
     "sourcePage": 103,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [],
+    "statusOverride": "stopped",
     "stockNote": "库存表未匹配到完整现货配置"
   },
   {
@@ -2929,6 +2943,7 @@ window.SIFAS_PRODUCTS = [
         "note": "可售 2 · 底座 3 / 桌面 2"
       }
     ],
+    "statusOverride": "stopped",
     "stockNote": "1 个完整现货配置"
   },
   {
@@ -2961,6 +2976,7 @@ window.SIFAS_PRODUCTS = [
         "note": "可售 3 · 底座 3 / 桌面 3"
       }
     ],
+    "statusOverride": "stopped",
     "stockNote": "1 个完整现货配置"
   },
   {
@@ -4524,7 +4540,7 @@ window.SIFAS_PRODUCTS = [
     "price": 7610,
     "currency": "¥",
     "status": "in_stock",
-    "image": "assets/products/p149_11.jpg",
+    "image": "assets/products/p149_00.jpg",
     "sourcePage": 149,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [
@@ -4555,7 +4571,7 @@ window.SIFAS_PRODUCTS = [
     "price": 4780,
     "currency": "¥",
     "status": "in_stock",
-    "image": "assets/products/p149_12.jpg",
+    "image": "assets/products/p149_01.jpg",
     "sourcePage": 149,
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [
