@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>SIFAS 现货查询</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">SIFAS STOCK</p>
+        <h1>现货查询</h1>
+      </div>
+      <button class="ghost-button" id="adminToggle" type="button">管理</button>
+    </header>
+
+    <main>
+      <section class="brand-hero">
+        <div>
+          <p>SIFAS</p>
+          <h2>2025 STOCK</h2>
+        </div>
+        <span>家具现货目录</span>
+      </section>
+
+      <section class="summary">
+        <div>
+          <span class="summary-label">产品</span>
+          <strong id="totalCount">0</strong>
+        </div>
+        <div>
+          <span class="summary-label">现货</span>
+          <strong id="stockCount">0</strong>
+        </div>
+        <div>
+          <span class="summary-label">更新</span>
+          <strong id="updatedAt">今天</strong>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="查询筛选">
+        <label class="search">
+          <span>搜索产品</span>
+          <input id="searchInput" type="search" placeholder="输入系列、名称或编号" autocomplete="off" />
+        </label>
+        <div class="scroll-tabs" id="statusTabs"></div>
+        <div class="scroll-tabs series-tabs" id="seriesTabs"></div>
+      </section>
+
+      <section class="admin-panel" id="adminPanel" hidden>
+        <div class="admin-copy">
+          <strong>管理模式</strong>
+          <span>修改状态后会保存到本地服务端数据。</span>
+        </div>
+        <button class="ghost-button" id="exitAdmin" type="button">退出</button>
+      </section>
+
+      <section class="product-grid" id="productGrid" aria-live="polite"></section>
+      <p class="empty" id="emptyState" hidden>没有找到匹配的产品。</p>
+    </main>
+
+    <template id="productTemplate">
+      <article class="product-card">
+        <div class="image-wrap">
+          <button class="image-button" type="button">
+            <img alt="" loading="lazy" />
+            <span class="status-badge"></span>
+          </button>
+          <div class="status-editor" aria-label="修改状态"></div>
+        </div>
+        <div class="product-body">
+          <div class="meta-row">
+            <span class="series"></span>
+          </div>
+          <h2></h2>
+          <p class="description"></p>
+          <div class="variant-strip" hidden></div>
+          <dl>
+            <div>
+              <dt>尺寸</dt>
+              <dd class="dimensions"></dd>
+            </div>
+            <div>
+              <dt>价格</dt>
+              <dd class="price"></dd>
+            </div>
+          </dl>
+        </div>
+      </article>
+    </template>
+
+    <div class="modal" id="stockModal" hidden>
+      <div class="modal-backdrop" data-close-modal></div>
+      <section class="modal-sheet" role="dialog" aria-modal="true" aria-labelledby="stockTitle">
+        <button class="modal-close" type="button" data-close-modal>关闭</button>
+        <p class="modal-kicker" id="stockSeries"></p>
+        <h2 id="stockTitle"></h2>
+        <p class="modal-subtitle" id="stockSubtitle"></p>
+        <div class="config-list" id="stockConfigList"></div>
+      </section>
+    </div>
+
+    <div class="modal" id="adminModal" hidden>
+      <div class="modal-backdrop" data-close-admin></div>
+      <section class="modal-sheet compact-sheet" role="dialog" aria-modal="true" aria-labelledby="adminTitle">
+        <button class="modal-close" type="button" data-close-admin>关闭</button>
+        <p class="modal-kicker">SIFAS ADMIN</p>
+        <h2 id="adminTitle">进入管理模式</h2>
+        <label class="admin-password">
+          <span>管理密码</span>
+          <input id="adminPassword" type="password" autocomplete="current-password" placeholder="请输入密码" />
+        </label>
+        <p class="admin-error" id="adminError" hidden>密码不正确。</p>
+        <button class="primary-button" id="confirmAdmin" type="button">确认进入</button>
+      </section>
+    </div>
+
+    <script src="data/products.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

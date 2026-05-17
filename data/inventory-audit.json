@@ -1,0 +1,4923 @@
+{
+  "matched": {
+    "BASK23": {
+      "rows": [
+        {
+          "series": "BASKET",
+          "ref": "BASK23",
+          "code": "BASK23_AL08_LY03",
+          "name": "LOUNGE CHAIR BASET",
+          "spec": "69*72*72CM",
+          "available": 26,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BASK23_AL08_LY03",
+          "productRef": "BASK23",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色织带",
+          "status": "in_stock",
+          "quantity": 26,
+          "sourceCodes": [
+            "BASK23_AL08_LY03"
+          ],
+          "note": "可用 26 · 灰色 / 灰色织带"
+        }
+      ]
+    },
+    "BASK25": {
+      "rows": [
+        {
+          "series": "BASKET",
+          "ref": "BASK25",
+          "code": "BASK25AL08LY03",
+          "name": "SUN LOUNGER BASKET BASK25AL08LY03",
+          "spec": "76*206*58CM",
+          "available": 10,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BASK25AL08LY03",
+          "productRef": "BASK25",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色织带",
+          "status": "in_stock",
+          "quantity": 10,
+          "sourceCodes": [
+            "BASK25AL08LY03"
+          ],
+          "note": "可用 10 · 灰色 / 灰色织带"
+        }
+      ]
+    },
+    "BASK345": {
+      "rows": [
+        {
+          "series": "BASKET",
+          "ref": "BASK345",
+          "code": "BASK345AL08LY03",
+          "name": "lounge armchair frame TR2 Natura l躺椅+脚踏",
+          "spec": "104*76*(60+46)CM / 66*64*28CM",
+          "available": 5,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "BASK21L": {
+      "rows": [
+        {
+          "series": "BASKET",
+          "ref": "BASK21L",
+          "code": "BASK21L_AL08_LY03",
+          "name": "SOFA LEFT",
+          "spec": "160*73*74+31",
+          "available": 5,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BASK21L_AL08_LY03",
+          "productRef": "BASK21L",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色织带",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "BASK21L_AL08_LY03"
+          ],
+          "note": "可用 5 · 灰色 / 灰色织带"
+        }
+      ]
+    },
+    "BASK4": {
+      "rows": [
+        {
+          "series": "BASKET",
+          "ref": "BASK4",
+          "code": "BASK4AL08LY03",
+          "name": "DINING ARM CHAIR  BASKET",
+          "spec": "58*61*79CM",
+          "available": 24,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BASK4AL08LY03",
+          "productRef": "BASK4",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色织带",
+          "status": "in_stock",
+          "quantity": 24,
+          "sourceCodes": [
+            "BASK4AL08LY03"
+          ],
+          "note": "可用 24 · 灰色 / 灰色织带"
+        }
+      ]
+    },
+    "BASK6S": {
+      "rows": [
+        {
+          "series": "BASKET",
+          "ref": "BASK6S",
+          "code": "BASK6S_AL08_LY03",
+          "name": "Dining Armchair",
+          "spec": "54*54*80",
+          "available": 14,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BASK6S_AL08_LY03",
+          "productRef": "BASK6S",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色织带",
+          "status": "in_stock",
+          "quantity": 14,
+          "sourceCodes": [
+            "BASK6S_AL08_LY03"
+          ],
+          "note": "可用 14 · 灰色 / 灰色织带"
+        }
+      ]
+    },
+    "BASK26": {
+      "rows": [
+        {
+          "series": "BASKET",
+          "ref": "BASK26",
+          "code": "BASK26AL08LY03",
+          "name": "BASE FOR COFFEE TABLE  BASKET",
+          "spec": "110*70*34CM",
+          "available": 4,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "BASK27": {
+      "rows": [
+        {
+          "series": "BASKET",
+          "ref": "BASK27",
+          "code": "BASK27AL02",
+          "name": "BASKET SIDE TABLE MOKA",
+          "spec": "60*60*55CM",
+          "available": 7,
+          "rowType": "complete"
+        },
+        {
+          "series": "BASKET",
+          "ref": "BASK27",
+          "code": "BASK27AL04",
+          "name": "BASKET SIDE TABLE WHITE",
+          "spec": "60*60*55CM",
+          "available": 7,
+          "rowType": "complete"
+        },
+        {
+          "series": "BASKET",
+          "ref": "BASK27",
+          "code": "BASK27AL08",
+          "name": "ROUND TABLE BASKET AL08",
+          "spec": "60*60*55CM",
+          "available": 3,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BASK27AL02",
+          "productRef": "BASK27",
+          "frameColor": "摩卡色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 7,
+          "sourceCodes": [
+            "BASK27AL02"
+          ],
+          "note": "可用 7 · 摩卡色"
+        },
+        {
+          "variantId": "BASK27AL04",
+          "productRef": "BASK27",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 7,
+          "sourceCodes": [
+            "BASK27AL04"
+          ],
+          "note": "可用 7 · 白色"
+        },
+        {
+          "variantId": "BASK27AL08",
+          "productRef": "BASK27",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "BASK27AL08"
+          ],
+          "note": "可用 3 · 灰色"
+        }
+      ]
+    },
+    "BIGROLL21": {
+      "rows": [
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL21",
+          "code": "BIGROLL21_VI32_VI35",
+          "name": "SOFA 3 SEATER WITH SEAT CUSHION SEGARA LIGHT GREY 161 AND BACKREST OR 三人座沙发",
+          "spec": "246*90*（68+8）CM",
+          "available": 9,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BIGROLL21_VI32_VI35",
+          "productRef": "BIGROLL21",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰 / 橙色",
+          "status": "in_stock",
+          "quantity": 9,
+          "sourceCodes": [
+            "BIGROLL21_VI32_VI35"
+          ],
+          "note": "可用 9 · 浅灰 / 橙色"
+        }
+      ]
+    },
+    "BIGROLL22": {
+      "rows": [
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL22",
+          "code": "BIGROLL22_VI32_VI35",
+          "name": "SOFA 2  SEATER WITH SEAT CUSHION SEGARA LIGHT GREY 161 AND BACKREST O  2人座沙发",
+          "spec": "202*90*（68+38）CM",
+          "available": 8,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BIGROLL22_VI32_VI35",
+          "productRef": "BIGROLL22",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰 / 橙色",
+          "status": "in_stock",
+          "quantity": 8,
+          "sourceCodes": [
+            "BIGROLL22_VI32_VI35"
+          ],
+          "note": "可用 8 · 浅灰 / 橙色"
+        }
+      ]
+    },
+    "BIGROLL23": {
+      "rows": [
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL23",
+          "code": "BIGROLL23_VI32_VI35",
+          "name": "LOUNGE CHAIR WITH SEAT CUSHION SEGARA LIGHT GREY 161 AND BACKREST ORA 沙发休闲椅",
+          "spec": "122*91*68CM",
+          "available": 3,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BIGROLL23_VI32_VI35",
+          "productRef": "BIGROLL23",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰 / 橙色",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "BIGROLL23_VI32_VI35"
+          ],
+          "note": "可用 3 · 浅灰 / 橙色"
+        }
+      ]
+    },
+    "BIGROLL4": {
+      "rows": [
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL4",
+          "code": "BIGROLL4_VI32_VI35",
+          "name": "DINING CHAIR WITH SEAT CUSHION SEGARA LIGHT GREY 161 AND BACKREST ORA 餐椅带坐垫",
+          "spec": "56*65*74CM",
+          "available": 22,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BIGROLL4_VI32_VI35",
+          "productRef": "BIGROLL4",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰 / 橙色",
+          "status": "in_stock",
+          "quantity": 22,
+          "sourceCodes": [
+            "BIGROLL4_VI32_VI35"
+          ],
+          "note": "可用 22 · 浅灰 / 橙色"
+        }
+      ]
+    },
+    "BIGROLL3": {
+      "rows": [
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL3",
+          "code": "BIGROLL3AL04",
+          "name": "DINING TABLE DIAM 120 FRAME 餐台带玻璃",
+          "spec": "Φ120*75cm",
+          "available": 5,
+          "rowType": "base"
+        },
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL3",
+          "code": "BIGROLL326C_CE09",
+          "name": "DINING/COCKTAIL  TABLE DIAM 120 CERAMIC 陶瓷 WHITE纯白",
+          "spec": "Φ1163*12mm",
+          "available": 2,
+          "rowType": "top"
+        },
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL3",
+          "code": "BIGROLL326CCE08",
+          "name": "DINING/COCKTAIL  TABLE DIAM 120 CERAMIC CE08灰 陶瓷",
+          "spec": "Φ1163*12mm",
+          "available": 2,
+          "rowType": "top"
+        },
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL3",
+          "code": "BIGROLL326D_SU01",
+          "name": "DINING/COCKTAIL  TABLE DIAM GLASS TOP WHITE",
+          "spec": "Φ1163.5(+0，-1) x 10mm",
+          "available": 1,
+          "rowType": "top"
+        },
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL3",
+          "code": "BIGROLL326DSU01",
+          "name": "DINING/COCKTAIL  TABLE DIAM GLASS TOP WHITE SU01",
+          "spec": "Φ1163.5(+0，-1) x 10mm",
+          "available": 5,
+          "rowType": "top"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BIGROLL3AL04+BIGROLL326C_CE09",
+          "productRef": "BIGROLL3",
+          "frameColor": "白色",
+          "tabletopType": "陶瓷",
+          "tabletopColor": "白色陶瓷",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "BIGROLL3AL04",
+            "BIGROLL326C_CE09"
+          ],
+          "note": "可售 2 · 底座 5 / 桌面 2"
+        },
+        {
+          "variantId": "BIGROLL3AL04+BIGROLL326CCE08",
+          "productRef": "BIGROLL3",
+          "frameColor": "白色",
+          "tabletopType": "陶瓷",
+          "tabletopColor": "灰色陶瓷",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "BIGROLL3AL04",
+            "BIGROLL326CCE08"
+          ],
+          "note": "可售 2 · 底座 5 / 桌面 2"
+        },
+        {
+          "variantId": "BIGROLL3AL04+BIGROLL326D_SU01",
+          "productRef": "BIGROLL3",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "BIGROLL3AL04",
+            "BIGROLL326D_SU01"
+          ],
+          "note": "可售 1 · 底座 5 / 桌面 1"
+        },
+        {
+          "variantId": "BIGROLL3AL04+BIGROLL326DSU01",
+          "productRef": "BIGROLL3",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "BIGROLL3AL04",
+            "BIGROLL326DSU01"
+          ],
+          "note": "可售 5 · 底座 5 / 桌面 5"
+        }
+      ]
+    },
+    "BIGROLL26": {
+      "rows": [
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL26",
+          "code": "BIGROLL26_AL04",
+          "name": "COCKTAIL TABLE DIAM 120 FRAME",
+          "spec": "Φ120*H40cm",
+          "available": 9,
+          "rowType": "base"
+        },
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL26",
+          "code": "BIGROLL326C_CE09",
+          "name": "DINING/COCKTAIL  TABLE DIAM 120 CERAMIC 陶瓷 WHITE纯白",
+          "spec": "Φ1163*12mm",
+          "available": 2,
+          "rowType": "top"
+        },
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL26",
+          "code": "BIGROLL326CCE08",
+          "name": "DINING/COCKTAIL  TABLE DIAM 120 CERAMIC CE08灰 陶瓷",
+          "spec": "Φ1163*12mm",
+          "available": 2,
+          "rowType": "top"
+        },
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL26",
+          "code": "BIGROLL326D_SU01",
+          "name": "DINING/COCKTAIL  TABLE DIAM GLASS TOP WHITE",
+          "spec": "Φ1163.5(+0，-1) x 10mm",
+          "available": 1,
+          "rowType": "top"
+        },
+        {
+          "series": "BIG ROLL",
+          "ref": "BIGROLL26",
+          "code": "BIGROLL326DSU01",
+          "name": "DINING/COCKTAIL  TABLE DIAM GLASS TOP WHITE SU01",
+          "spec": "Φ1163.5(+0，-1) x 10mm",
+          "available": 5,
+          "rowType": "top"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "BIGROLL26_AL04+BIGROLL326C_CE09",
+          "productRef": "BIGROLL26",
+          "frameColor": "白色",
+          "tabletopType": "陶瓷",
+          "tabletopColor": "白色陶瓷",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "BIGROLL26_AL04",
+            "BIGROLL326C_CE09"
+          ],
+          "note": "可售 2 · 底座 9 / 桌面 2"
+        },
+        {
+          "variantId": "BIGROLL26_AL04+BIGROLL326CCE08",
+          "productRef": "BIGROLL26",
+          "frameColor": "白色",
+          "tabletopType": "陶瓷",
+          "tabletopColor": "灰色陶瓷",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "BIGROLL26_AL04",
+            "BIGROLL326CCE08"
+          ],
+          "note": "可售 2 · 底座 9 / 桌面 2"
+        },
+        {
+          "variantId": "BIGROLL26_AL04+BIGROLL326D_SU01",
+          "productRef": "BIGROLL26",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "BIGROLL26_AL04",
+            "BIGROLL326D_SU01"
+          ],
+          "note": "可售 1 · 底座 9 / 桌面 1"
+        },
+        {
+          "variantId": "BIGROLL26_AL04+BIGROLL326DSU01",
+          "productRef": "BIGROLL26",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "BIGROLL26_AL04",
+            "BIGROLL326DSU01"
+          ],
+          "note": "可售 5 · 底座 9 / 桌面 5"
+        }
+      ]
+    },
+    "FRIN3FR": {
+      "rows": [
+        {
+          "series": "FRINGES",
+          "ref": "FRIN3FR",
+          "code": "FRIN3FRAL08FA07",
+          "name": "FRINGES DINING TABLE H73 -  BASE ONLY 灰中柱台底座 (铝架+PVC绳）",
+          "spec": "Φ79*H72cm",
+          "available": 1,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "FRIN3LS": {
+      "rows": [
+        {
+          "series": "FRINGES",
+          "ref": "FRIN3LS",
+          "code": "FRIN3LSSU08",
+          "name": "LAZY SUSAN TURNING GLASS TOP D75CM - Grey 旋转台面 （玻璃+不绣钢）",
+          "spec": "Φ75*3cm",
+          "available": 1,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "FRINL6": {
+      "rows": [
+        {
+          "series": "FRINGES",
+          "ref": "FRINL6",
+          "code": "FRINL6_AL08_FA01",
+          "name": "FRINGE FLOOR LAMP WHITE FA01 White白落地灯 (铝架+PVC绳+太阳能灯）",
+          "spec": "50*50*150CM",
+          "available": 13,
+          "rowType": "base"
+        },
+        {
+          "series": "FRINGES",
+          "ref": "FRINL6",
+          "code": "FRINL6_AL08_FA04",
+          "name": "FRINGE FLOOR LAMP TURQUOISE FA04 Turchese土耳其蓝 (铝架+PVC绳+太阳能灯）",
+          "spec": "50*50*150CM",
+          "available": 10,
+          "rowType": "base"
+        },
+        {
+          "series": "FRINGES",
+          "ref": "FRINL6",
+          "code": "FRINL6_AL08_FA06",
+          "name": "FRINGE FLOOR LAMP DARK GREY FA04 Dark Grey深灰落地灯 (铝架+PVC绳+太阳能灯）",
+          "spec": "50*50*150CM",
+          "available": 10,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "FRIN29": {
+      "rows": [
+        {
+          "series": "FRINGES",
+          "ref": "FRIN29",
+          "code": "FRIN29_AL04_FA01",
+          "name": "FRINGES coffee table diam.80cm (H35cm) white",
+          "spec": "74*74*35CM",
+          "available": 10,
+          "rowType": "base"
+        },
+        {
+          "series": "FRINGES",
+          "ref": "FRIN29",
+          "code": "FRIN29_AL04_FA02",
+          "name": "FRINGE COFFEE TABLE WHITE/DARK GREY FA02 Whie/Dark Grey咖啡桌 (铝架+PVC绳）",
+          "spec": "74*74*35cm",
+          "available": 8,
+          "rowType": "base"
+        },
+        {
+          "series": "FRINGES",
+          "ref": "FRIN29",
+          "code": "FRIN29_AL04_FA03",
+          "name": "FRINGE COFFEE TABLE TURQUOISE FA03 Turchese/White咖啡桌 (铝架+PVC绳）",
+          "spec": "74*74*35cm",
+          "available": 2,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "FRIN30": {
+      "rows": [
+        {
+          "series": "FRINGES",
+          "ref": "FRIN30",
+          "code": "FRIN30AL04FA01",
+          "name": "HIGH SIDE TABLE D47 H60CM - White  圆边几（铝架+PVC绳）",
+          "spec": "Φ50*H60cm",
+          "available": 3,
+          "rowType": "base"
+        },
+        {
+          "series": "FRINGES",
+          "ref": "FRIN30",
+          "code": "FRIN30AL04FA02",
+          "name": "HIGH SIDE TABLE D47 H60CM - White/Dark Grey   圆边几（铝架+PVC绳）",
+          "spec": "Φ50*H60cm",
+          "available": 1,
+          "rowType": "base"
+        },
+        {
+          "series": "FRINGES",
+          "ref": "FRIN30",
+          "code": "FRIN30AL04FA03",
+          "name": "HIGH SIDE TABLE D47 H60CM - Turchese/White  圆边几（铝架+PVC绳）",
+          "spec": "Φ50*H60cm",
+          "available": 2,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "FRIN27": {
+      "rows": [
+        {
+          "series": "FRINGES",
+          "ref": "FRIN27",
+          "code": "FRIN27_AL04_FA01",
+          "name": "FRINGES side table FA01 white 白 圆边几 (铝架+PVC绳）",
+          "spec": "Φ37*H50cm",
+          "available": 17,
+          "rowType": "base"
+        },
+        {
+          "series": "FRINGES",
+          "ref": "FRIN27",
+          "code": "FRIN27_AL11_FA04",
+          "name": "FRINGES side table frame (diam. 37cm/H 50cm) turquese 孔雀绿圆边几 (铝架+PVC绳）",
+          "spec": "Φ37*H50cm",
+          "available": 8,
+          "rowType": "base"
+        },
+        {
+          "series": "FRINGES",
+          "ref": "FRIN27",
+          "code": "FRIN27_AL12_FA05",
+          "name": "FRINGES side table frame (diam. 37cm/H 50cm) blue圆边几 (铝架+PVC绳）",
+          "spec": "Φ37*H50cm",
+          "available": 7,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "FRIN28": {
+      "rows": [
+        {
+          "series": "FRINGES",
+          "ref": "FRIN28",
+          "code": "FRIN28AL04FA01",
+          "name": "SIDE TABLE D47 H40CM - White  圆边几 (铝架+PVC绳）",
+          "spec": "Φ48*H40cm",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "FRINGES",
+          "ref": "FRIN28",
+          "code": "FRIN28AL11FA04",
+          "name": "SIDE TABLE D47 H40CM - Turchese  圆边几 (铝架+PVC绳）",
+          "spec": "Φ48*H40cm",
+          "available": 1,
+          "rowType": "base"
+        },
+        {
+          "series": "FRINGES",
+          "ref": "FRIN28",
+          "code": "FRIN28AL12FA05",
+          "name": "SIDE TABLE D47 H40CM - Blue 蓝 圆边几 (铝架+PVC绳）",
+          "spec": "Φ48*H40c",
+          "available": 1,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "HIPS3": {
+      "rows": [
+        {
+          "series": "HIPS",
+          "ref": "HIPS3",
+          "code": "HIPS3BAL02",
+          "name": "DINING TABLE ALU BASE H74CM - MOKA  棕  摩卡色",
+          "spec": "○60*74CM",
+          "available": 5,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS3",
+          "code": "HIPS3BAL04",
+          "name": "DINING TABLE BASE H74CM - White 白色 餐台底座",
+          "spec": "○60*74CM",
+          "available": 4,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS3",
+          "code": "HIPS3BAL08",
+          "name": "DINING TABLE ALU BASE  H74CM - GREY 灰色 餐台底座",
+          "spec": "○60*74CM",
+          "available": 5,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS3",
+          "code": "HIPS3BLE04",
+          "name": "DINING TABLE ALU BASE H74CM - BLACK  黑色 餐台底座",
+          "spec": "○60*74CM",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS3",
+          "code": "HIPS3TAL02",
+          "name": "DINING TABLE ALU TOP D140CM - MOKA  棕 摩卡色 餐台铝台面",
+          "spec": "○140*2CM",
+          "available": 5,
+          "rowType": "top"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS3",
+          "code": "HIPS3TAL04",
+          "name": "DINING TABLE TOP D140CM - White 白色 餐台铝台面",
+          "spec": "○140*2CM",
+          "available": 4,
+          "rowType": "top"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS3",
+          "code": "HIPS3TAL08",
+          "name": "DINING TABLE ALU TOP D140CM - GREY  灰色 餐台铝台面",
+          "spec": "○140*2CM",
+          "available": 5,
+          "rowType": "top"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS3",
+          "code": "HIPS3TLE04",
+          "name": "DINING TABLE ALU TOP D140CM - BLACK  黑色 餐台铝台面",
+          "spec": "○140*2CM",
+          "available": 2,
+          "rowType": "top"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "HIPS3BAL02+HIPS3TAL02",
+          "productRef": "HIPS3",
+          "frameColor": "摩卡色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "HIPS3BAL02",
+            "HIPS3TAL02"
+          ],
+          "note": "可售 5 · 底座 5 / 桌面 5"
+        },
+        {
+          "variantId": "HIPS3BAL04+HIPS3TAL04",
+          "productRef": "HIPS3",
+          "frameColor": "白色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "HIPS3BAL04",
+            "HIPS3TAL04"
+          ],
+          "note": "可售 4 · 底座 4 / 桌面 4"
+        },
+        {
+          "variantId": "HIPS3BAL08+HIPS3TAL08",
+          "productRef": "HIPS3",
+          "frameColor": "灰色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "HIPS3BAL08",
+            "HIPS3TAL08"
+          ],
+          "note": "可售 5 · 底座 5 / 桌面 5"
+        },
+        {
+          "variantId": "HIPS3BLE04+HIPS3TLE04",
+          "productRef": "HIPS3",
+          "frameColor": "黑色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "HIPS3BLE04",
+            "HIPS3TLE04"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 2"
+        }
+      ]
+    },
+    "HIPS26": {
+      "rows": [
+        {
+          "series": "HIPS",
+          "ref": "HIPS26",
+          "code": "HIPS26BAL02",
+          "name": "COFFEE TABLE BASE  H40CM - MOKA  棕 摩卡色,台架 （铝材+铁板）",
+          "spec": "DIA50*38CM",
+          "available": 3,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS26",
+          "code": "HIPS26BAL04",
+          "name": "COFFEE TABLE BASE  H40CM - WHITE 白色 （铝材+铁板）",
+          "spec": "DIA50*38CM",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS26",
+          "code": "HIPS26BAL08",
+          "name": "COFFEE TABLE BASE  H40CM - GREY  灰色 （铝材+铁板）",
+          "spec": "DIA50*38CM",
+          "available": 3,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS26",
+          "code": "HIPS26BLE04",
+          "name": "COFFEE TABLE BASE  H40CM - BLACK 黑色 （铝材+铁板）",
+          "spec": "DIA50*38CM",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS26",
+          "code": "HIPS26TAL02",
+          "name": "COFFEE TABLE TOP  D90CM - MOKA  棕 摩卡色",
+          "spec": "DIA90*2CM",
+          "available": 3,
+          "rowType": "top"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS26",
+          "code": "HIPS26TAL04",
+          "name": "COFFEE TABLE TOP  D90CM - WHITE 白色",
+          "spec": "○90*2CM",
+          "available": 2,
+          "rowType": "top"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS26",
+          "code": "HIPS26TAL08",
+          "name": "COFFEE TABLE TOP  D90CM - GREY  灰色",
+          "spec": "○90*2CM",
+          "available": 3,
+          "rowType": "top"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS26",
+          "code": "HIPS26TLE04",
+          "name": "COFFEE TABLE TOP  D90CM - BLACK  黑色",
+          "spec": "DIA90*2CM",
+          "available": 2,
+          "rowType": "top"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "HIPS26BAL02+HIPS26TAL02",
+          "productRef": "HIPS26",
+          "frameColor": "摩卡色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "HIPS26BAL02",
+            "HIPS26TAL02"
+          ],
+          "note": "可售 3 · 底座 3 / 桌面 3"
+        },
+        {
+          "variantId": "HIPS26BAL04+HIPS26TAL04",
+          "productRef": "HIPS26",
+          "frameColor": "白色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "HIPS26BAL04",
+            "HIPS26TAL04"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 2"
+        },
+        {
+          "variantId": "HIPS26BAL08+HIPS26TAL08",
+          "productRef": "HIPS26",
+          "frameColor": "灰色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "HIPS26BAL08",
+            "HIPS26TAL08"
+          ],
+          "note": "可售 3 · 底座 3 / 桌面 3"
+        },
+        {
+          "variantId": "HIPS26BLE04+HIPS26TLE04",
+          "productRef": "HIPS26",
+          "frameColor": "黑色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "HIPS26BLE04",
+            "HIPS26TLE04"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 2"
+        }
+      ]
+    },
+    "HIPS27": {
+      "rows": [
+        {
+          "series": "HIPS",
+          "ref": "HIPS27",
+          "code": "HIPS27AL02",
+          "name": "SIDE TABLE D45 H52CM (TOP+BASE) - Moka 棕 摩卡色 边几",
+          "spec": "○45*53CM",
+          "available": 25,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS27",
+          "code": "HIPS27AL04",
+          "name": "SIDE TABLE D45 H52CM (TOP+BASE) - White 白色 边几",
+          "spec": "○45*53CM",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS27",
+          "code": "HIPS27AL08",
+          "name": "SIDE TABLE D45 H52CM (TOP+BASE) - Grey  灰色 边几",
+          "spec": "○45*53CM",
+          "available": 11,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS27",
+          "code": "HIPS27LE04",
+          "name": "SIDE TABLE D45 H52CM (TOP+BASE) - Black  黑色 边几",
+          "spec": "○45*53CM",
+          "available": 25,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "HIPS91": {
+      "rows": [
+        {
+          "series": "HIPS",
+          "ref": "HIPS91",
+          "code": "HIPS91BAL04",
+          "name": "BAR TABLE BASE H105CM - White  白 吧台底座 （铝材+铁板）",
+          "spec": "○56*105CM",
+          "available": 4,
+          "rowType": "base"
+        },
+        {
+          "series": "HIPS",
+          "ref": "HIPS91",
+          "code": "HIPS91TAL04",
+          "name": "BAR TABLE TOP D70CM - White  白色 吧台铝台面",
+          "spec": "○70*2CM",
+          "available": 2,
+          "rowType": "top"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "HIPS91BAL04+HIPS91TAL04",
+          "productRef": "HIPS91",
+          "frameColor": "白色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "HIPS91BAL04",
+            "HIPS91TAL04"
+          ],
+          "note": "可售 2 · 底座 4 / 桌面 2"
+        }
+      ]
+    },
+    "KALI21R": {
+      "rows": [
+        {
+          "series": "KALIFE",
+          "ref": "KALI21R",
+          "code": "KALI21RAL08LY03",
+          "name": "KALIFE SOFA 1800*900 RIGHT  ARM  GREY",
+          "spec": "180*90*78CM",
+          "available": 3,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KALI21RAL08LY03",
+          "productRef": "KALI21R",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色织带",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "KALI21RAL08LY03"
+          ],
+          "note": "可用 3 · 灰色 / 灰色织带"
+        }
+      ]
+    },
+    "KALI23": {
+      "rows": [
+        {
+          "series": "KALIFE",
+          "ref": "KALI23",
+          "code": "KALI23AL08LY03",
+          "name": "KALIFE CHAIR 900*900  GREY",
+          "spec": "91*90*77CM",
+          "available": 2,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KALI23AL08LY03",
+          "productRef": "KALI23",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色织带",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KALI23AL08LY03"
+          ],
+          "note": "可用 2 · 灰色 / 灰色织带"
+        }
+      ]
+    },
+    "KALI24": {
+      "rows": [
+        {
+          "series": "KALIFE",
+          "ref": "KALI24",
+          "code": "KALI24AL08LY03",
+          "name": "KALIFE OTTOMAN  GREY",
+          "spec": "90*90*27CM",
+          "available": 5,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KALI24AL08LY03",
+          "productRef": "KALI24",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色织带",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "KALI24AL08LY03"
+          ],
+          "note": "可用 5 · 灰色 / 灰色织带"
+        }
+      ]
+    },
+    "KALI24C": {
+      "rows": [
+        {
+          "series": "KALIFE",
+          "ref": "KALI24C",
+          "code": "KALI24CCE03",
+          "name": "CERAMIC MARBLE TOP FOR KALIFE OTTOMAN  TAUPE",
+          "spec": "900*900*3.5MM",
+          "available": 5,
+          "rowType": "top"
+        },
+        {
+          "series": "KALIFE",
+          "ref": "KALI24C",
+          "code": "KALI24AL08LY03",
+          "name": "KALIFE OTTOMAN  GREY",
+          "spec": "90*90*27CM",
+          "available": 5,
+          "rowType": "base",
+          "aliasSourceRef": "KALI24"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KALI24AL08LY03+KALI24CCE03",
+          "productRef": "KALI24C",
+          "frameColor": "灰色",
+          "tabletopType": "陶瓷",
+          "tabletopColor": "大理石纹陶瓷",
+          "material": "灰色织带",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "KALI24AL08LY03",
+            "KALI24CCE03"
+          ],
+          "note": "可售 5 · 底座 5 / 桌面 5"
+        }
+      ]
+    },
+    "KALI31": {
+      "rows": [
+        {
+          "series": "KALIFE",
+          "ref": "KALI31",
+          "code": "KALI31AL08LY03",
+          "name": "LOUNGE CHAIR   BASEKET",
+          "spec": "DIA100*65CM",
+          "available": 1,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KALI31AL08LY03",
+          "productRef": "KALI31",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色织带",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KALI31AL08LY03"
+          ],
+          "note": "可用 1 · 灰色 / 灰色织带"
+        }
+      ]
+    },
+    "KOMF4": {
+      "rows": [
+        {
+          "series": "KOMFY",
+          "ref": "KOMF4",
+          "code": "KOMF4_AL08_PF02",
+          "name": "Dining armchair Komf  GREY",
+          "spec": "54*57*85CM",
+          "available": 12,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KOMF4_AL08_PF02",
+          "productRef": "KOMF4",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色网布",
+          "status": "in_stock",
+          "quantity": 12,
+          "sourceCodes": [
+            "KOMF4_AL08_PF02"
+          ],
+          "note": "可用 12 · 灰色 / 灰色网布"
+        }
+      ]
+    },
+    "KOMF5": {
+      "rows": [
+        {
+          "series": "KOMFY",
+          "ref": "KOMF5",
+          "code": "KOMF5_AL02_LE13",
+          "name": "Dining chair Komf  MOKA",
+          "spec": "49*57*85CM",
+          "available": 8,
+          "rowType": "complete"
+        },
+        {
+          "series": "KOMFY",
+          "ref": "KOMF5",
+          "code": "KOMF5_AL04_PF01",
+          "name": "Dining chair Komf  matt white 磨砂白",
+          "spec": "49*57*85CM",
+          "available": 20,
+          "rowType": "complete"
+        },
+        {
+          "series": "KOMFY",
+          "ref": "KOMF5",
+          "code": "KOMF5_AL08_PF02",
+          "name": "Dining chair Komf  GREY",
+          "spec": "49*57*85CM",
+          "available": 4,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KOMF5_AL02_LE13",
+          "productRef": "KOMF5",
+          "frameColor": "摩卡色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 8,
+          "sourceCodes": [
+            "KOMF5_AL02_LE13"
+          ],
+          "note": "可用 8 · 摩卡色"
+        },
+        {
+          "variantId": "KOMF5_AL04_PF01",
+          "productRef": "KOMF5",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "白色网布",
+          "status": "in_stock",
+          "quantity": 20,
+          "sourceCodes": [
+            "KOMF5_AL04_PF01"
+          ],
+          "note": "可用 20 · 白色 / 白色网布"
+        },
+        {
+          "variantId": "KOMF5_AL08_PF02",
+          "productRef": "KOMF5",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色网布",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "KOMF5_AL08_PF02"
+          ],
+          "note": "可用 4 · 灰色 / 灰色网布"
+        }
+      ]
+    },
+    "KOMF25": {
+      "rows": [
+        {
+          "series": "KOMFY",
+          "ref": "KOMF25",
+          "code": "KOMF25SAL08PF02",
+          "name": "STACKABLE CHAISE LOUGNE GREY   AL08PF02",
+          "spec": "200*83*36",
+          "available": 3,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KOMF25SAL08PF02",
+          "productRef": "KOMF25",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色网布",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "KOMF25SAL08PF02"
+          ],
+          "note": "可用 3 · 灰色 / 灰色网布"
+        }
+      ]
+    },
+    "KOMF40": {
+      "rows": [
+        {
+          "series": "KOMFY",
+          "ref": "KOMF40",
+          "code": "KOMF40AL04PF01",
+          "name": "DAYBED KOMF WITHOUT WEAVING WHITE MAT + WHITE TEXTYLENE AL04",
+          "spec": "205*160*200",
+          "available": 10,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KOMF40AL04PF01",
+          "productRef": "KOMF40",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "白色网布",
+          "status": "in_stock",
+          "quantity": 10,
+          "sourceCodes": [
+            "KOMF40AL04PF01"
+          ],
+          "note": "可用 10 · 白色 / 白色网布"
+        }
+      ]
+    },
+    "KOMF26": {
+      "rows": [
+        {
+          "series": "KOMFY",
+          "ref": "KOMF26",
+          "code": "KOMF26AL02SU04",
+          "name": "side table KOMF table 铝方几 MOKA 含玻璃 AL02",
+          "spec": "100*100*40CM",
+          "available": 2,
+          "rowType": "top"
+        },
+        {
+          "series": "KOMFY",
+          "ref": "KOMF26",
+          "code": "KOMF26AL04SU01",
+          "name": "side table KOMF table 铝方几 white 含玻璃 AL04",
+          "spec": "100*100*40CM",
+          "available": 1,
+          "rowType": "top"
+        }
+      ],
+      "configs": []
+    },
+    "KONI1": {
+      "rows": [
+        {
+          "series": "KONIC",
+          "ref": "KONI1",
+          "code": "KONI1FR_FW01",
+          "name": "Frame for KWAD1S table mat FAKE WOOD DARK长餐台台架 铝材 （NEW KWADRA TABLE",
+          "spec": "180*90*H75CM",
+          "available": 3,
+          "rowType": "base"
+        },
+        {
+          "series": "KONIC",
+          "ref": "KONI1",
+          "code": "KONI1FRAL02",
+          "name": "Frame for KWAD1S 180x90CM MOKA table taupe 长餐台台架 （铝材 (NEW KWADRA TABLE",
+          "spec": "180*90*H75CM",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "KONIC",
+          "ref": "KONI1",
+          "code": "KONI1FRAL04",
+          "name": "Frame for KWAD1S 180*90CM table matt white 磨砂白长餐台台架 （NEW KWADRA TABLE",
+          "spec": "180*90*H75CM",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "KONIC",
+          "ref": "KONI1",
+          "code": "KONI1FRAL08",
+          "name": "Frame for KWAD1S 180*90CM table mat grey 灰砂长餐台台架（铝材 （NEW KWADRA TABLE",
+          "spec": "180*90*H75CM",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "KONIC",
+          "ref": "KONI1",
+          "code": "KONI1GLSU04",
+          "name": "Glass top for KWAD1S=KONI1GL 180*90 table taupe",
+          "spec": "180*90CM*1CM",
+          "available": 2,
+          "rowType": "top"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KONI1",
+          "code": "KWAD1FR_AL04",
+          "name": "Frame for KWAD1S 180*90  table matt white 磨砂白",
+          "spec": "180*90*75CM",
+          "available": 1,
+          "rowType": "base"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KONI1",
+          "code": "KWAD1GL_SU01",
+          "name": "Glass top for KWAD1S 180*90 table white",
+          "spec": "180*90CM*1CM",
+          "available": 1,
+          "rowType": "top"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KONI1FR_FW01+KONI1GLSU04",
+          "productRef": "KONI1",
+          "frameColor": "深木纹",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KONI1FR_FW01",
+            "KONI1GLSU04"
+          ],
+          "note": "可售 2 · 底座 3 / 桌面 2"
+        },
+        {
+          "variantId": "KONI1FR_FW01+KWAD1GL_SU01",
+          "productRef": "KONI1",
+          "frameColor": "深木纹",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI1FR_FW01",
+            "KWAD1GL_SU01"
+          ],
+          "note": "可售 1 · 底座 3 / 桌面 1"
+        },
+        {
+          "variantId": "KONI1FRAL02+KONI1GLSU04",
+          "productRef": "KONI1",
+          "frameColor": "摩卡色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KONI1FRAL02",
+            "KONI1GLSU04"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 2"
+        },
+        {
+          "variantId": "KONI1FRAL02+KWAD1GL_SU01",
+          "productRef": "KONI1",
+          "frameColor": "摩卡色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI1FRAL02",
+            "KWAD1GL_SU01"
+          ],
+          "note": "可售 1 · 底座 2 / 桌面 1"
+        },
+        {
+          "variantId": "KONI1FRAL04+KONI1GLSU04",
+          "productRef": "KONI1",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KONI1FRAL04",
+            "KONI1GLSU04"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 2"
+        },
+        {
+          "variantId": "KONI1FRAL04+KWAD1GL_SU01",
+          "productRef": "KONI1",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI1FRAL04",
+            "KWAD1GL_SU01"
+          ],
+          "note": "可售 1 · 底座 2 / 桌面 1"
+        },
+        {
+          "variantId": "KONI1FRAL08+KONI1GLSU04",
+          "productRef": "KONI1",
+          "frameColor": "灰色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KONI1FRAL08",
+            "KONI1GLSU04"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 2"
+        },
+        {
+          "variantId": "KONI1FRAL08+KWAD1GL_SU01",
+          "productRef": "KONI1",
+          "frameColor": "灰色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI1FRAL08",
+            "KWAD1GL_SU01"
+          ],
+          "note": "可售 1 · 底座 2 / 桌面 1"
+        },
+        {
+          "variantId": "KWAD1FR_AL04+KONI1GLSU04",
+          "productRef": "KONI1",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KWAD1FR_AL04",
+            "KONI1GLSU04"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 2"
+        },
+        {
+          "variantId": "KWAD1FR_AL04+KWAD1GL_SU01",
+          "productRef": "KONI1",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KWAD1FR_AL04",
+            "KWAD1GL_SU01"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 1"
+        }
+      ]
+    },
+    "KONI3": {
+      "rows": [
+        {
+          "series": "KONIC",
+          "ref": "KONI3",
+          "code": "KONI3FR_AL02",
+          "name": "Frame for KWAD3S 240*100 table taupe长餐台台架 （铝材） (NEW KWADRA TABLE",
+          "spec": "240*100*H75CM",
+          "available": 1,
+          "rowType": "base"
+        },
+        {
+          "series": "KONIC",
+          "ref": "KONI3",
+          "code": "KONI3FR_FW01",
+          "name": "Frame for KWAD3S table mat FAKE WOOD DARK长餐台台架 （铝材(NEW KWADRA TABLE",
+          "spec": "240*100*H75CM",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KONI3",
+          "code": "KWAD3FR_AL02",
+          "name": "Frame for KWAD3S 240*100 table taupe",
+          "spec": "2400*100CM*75CM",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KONI3",
+          "code": "KWAD3FR_AL04",
+          "name": "Frame for KWAD3S 240*100 table matt white 磨砂白",
+          "spec": "240*100CM*75CM",
+          "available": 5,
+          "rowType": "base"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KONI3",
+          "code": "KWAD3FR_AL08",
+          "name": "Frame for KWAD3S 240*100 table mat grey 灰砂",
+          "spec": "240*100CM*75CM",
+          "available": 3,
+          "rowType": "base"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KONI3",
+          "code": "KWAD3GL_SU01",
+          "name": "Glass top for KWAD3S 240*100 table white",
+          "spec": "240*100*1CM",
+          "available": 6,
+          "rowType": "top"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KONI3FR_AL02+KWAD3GL_SU01",
+          "productRef": "KONI3",
+          "frameColor": "摩卡色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI3FR_AL02",
+            "KWAD3GL_SU01"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 6"
+        },
+        {
+          "variantId": "KONI3FR_FW01+KWAD3GL_SU01",
+          "productRef": "KONI3",
+          "frameColor": "深木纹",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KONI3FR_FW01",
+            "KWAD3GL_SU01"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 6"
+        },
+        {
+          "variantId": "KWAD3FR_AL02+KWAD3GL_SU01",
+          "productRef": "KONI3",
+          "frameColor": "摩卡色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KWAD3FR_AL02",
+            "KWAD3GL_SU01"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 6"
+        },
+        {
+          "variantId": "KWAD3FR_AL04+KWAD3GL_SU01",
+          "productRef": "KONI3",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "KWAD3FR_AL04",
+            "KWAD3GL_SU01"
+          ],
+          "note": "可售 5 · 底座 5 / 桌面 6"
+        },
+        {
+          "variantId": "KWAD3FR_AL08+KWAD3GL_SU01",
+          "productRef": "KONI3",
+          "frameColor": "灰色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "KWAD3FR_AL08",
+            "KWAD3GL_SU01"
+          ],
+          "note": "可售 3 · 底座 3 / 桌面 6"
+        }
+      ]
+    },
+    "KONI8": {
+      "rows": [
+        {
+          "series": "KONIC",
+          "ref": "KONI8",
+          "code": "KONI8FR_AL02",
+          "name": "Frame for KWAD8S 90*100 table taupe 方餐台台架（铝材）(NEW KWADRA TABLE",
+          "spec": "100*90*H75CM",
+          "available": 1,
+          "rowType": "base"
+        },
+        {
+          "series": "KONIC",
+          "ref": "KONI8",
+          "code": "KONI8FR_AL04",
+          "name": "Frame for KWAD8S 90*100 table matt white 磨砂白方餐台台架（铝材(NEW KWADRA TABLE",
+          "spec": "100*90*H75CM",
+          "available": 1,
+          "rowType": "base"
+        },
+        {
+          "series": "KONIC",
+          "ref": "KONI8",
+          "code": "KONI8FR_AL08",
+          "name": "Frame for KWAD8S 90*100 table mat grey 灰砂方餐台台架（铝材） (NEW KWADRA TABLE",
+          "spec": "100*90*H75CM",
+          "available": 1,
+          "rowType": "base"
+        },
+        {
+          "series": "KONIC",
+          "ref": "KONI8",
+          "code": "KONI8FR_FW01",
+          "name": "Frame for KWAD8S table mat FAKE WOOD DARK方餐台台架（铝材 (NEW KWADRA TABLE",
+          "spec": "100*90*H75CM",
+          "available": 2,
+          "rowType": "base"
+        },
+        {
+          "series": "KONIC",
+          "ref": "KONI8",
+          "code": "KONI8GLSU01",
+          "name": "KONIC GLASS TOP 100X90CM WHITE 白",
+          "spec": "100*90*1CM",
+          "available": 3,
+          "rowType": "top"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KONI8",
+          "code": "KWAD8FR_AL08",
+          "name": "Frame for KWAD8S 90*100 table mat grey 灰砂",
+          "spec": "100*90*75",
+          "available": 3,
+          "rowType": "base"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KONI8",
+          "code": "KWAD8GL_SU01",
+          "name": "Glass top for KWAD8S 90*100 table white",
+          "spec": "100*90*1",
+          "available": 10,
+          "rowType": "top"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KONI8",
+          "code": "KWAD8GL_SU04",
+          "name": "Glass top for KWAD8S 90*100  table taupe",
+          "spec": "100*90*1",
+          "available": 4,
+          "rowType": "top"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KONI8FR_AL02+KONI8GLSU01",
+          "productRef": "KONI8",
+          "frameColor": "摩卡色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI8FR_AL02",
+            "KONI8GLSU01"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 3"
+        },
+        {
+          "variantId": "KONI8FR_AL02+KWAD8GL_SU01",
+          "productRef": "KONI8",
+          "frameColor": "摩卡色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI8FR_AL02",
+            "KWAD8GL_SU01"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 10"
+        },
+        {
+          "variantId": "KONI8FR_AL02+KWAD8GL_SU04",
+          "productRef": "KONI8",
+          "frameColor": "摩卡色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI8FR_AL02",
+            "KWAD8GL_SU04"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 4"
+        },
+        {
+          "variantId": "KONI8FR_AL04+KONI8GLSU01",
+          "productRef": "KONI8",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI8FR_AL04",
+            "KONI8GLSU01"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 3"
+        },
+        {
+          "variantId": "KONI8FR_AL04+KWAD8GL_SU01",
+          "productRef": "KONI8",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI8FR_AL04",
+            "KWAD8GL_SU01"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 10"
+        },
+        {
+          "variantId": "KONI8FR_AL04+KWAD8GL_SU04",
+          "productRef": "KONI8",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI8FR_AL04",
+            "KWAD8GL_SU04"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 4"
+        },
+        {
+          "variantId": "KONI8FR_AL08+KONI8GLSU01",
+          "productRef": "KONI8",
+          "frameColor": "灰色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI8FR_AL08",
+            "KONI8GLSU01"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 3"
+        },
+        {
+          "variantId": "KONI8FR_AL08+KWAD8GL_SU01",
+          "productRef": "KONI8",
+          "frameColor": "灰色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI8FR_AL08",
+            "KWAD8GL_SU01"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 10"
+        },
+        {
+          "variantId": "KONI8FR_AL08+KWAD8GL_SU04",
+          "productRef": "KONI8",
+          "frameColor": "灰色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KONI8FR_AL08",
+            "KWAD8GL_SU04"
+          ],
+          "note": "可售 1 · 底座 1 / 桌面 4"
+        },
+        {
+          "variantId": "KONI8FR_FW01+KONI8GLSU01",
+          "productRef": "KONI8",
+          "frameColor": "深木纹",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KONI8FR_FW01",
+            "KONI8GLSU01"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 3"
+        },
+        {
+          "variantId": "KONI8FR_FW01+KWAD8GL_SU01",
+          "productRef": "KONI8",
+          "frameColor": "深木纹",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KONI8FR_FW01",
+            "KWAD8GL_SU01"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 10"
+        },
+        {
+          "variantId": "KONI8FR_FW01+KWAD8GL_SU04",
+          "productRef": "KONI8",
+          "frameColor": "深木纹",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KONI8FR_FW01",
+            "KWAD8GL_SU04"
+          ],
+          "note": "可售 2 · 底座 2 / 桌面 4"
+        },
+        {
+          "variantId": "KWAD8FR_AL08+KONI8GLSU01",
+          "productRef": "KONI8",
+          "frameColor": "灰色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "KWAD8FR_AL08",
+            "KONI8GLSU01"
+          ],
+          "note": "可售 3 · 底座 3 / 桌面 3"
+        },
+        {
+          "variantId": "KWAD8FR_AL08+KWAD8GL_SU01",
+          "productRef": "KONI8",
+          "frameColor": "灰色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "白色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "KWAD8FR_AL08",
+            "KWAD8GL_SU01"
+          ],
+          "note": "可售 3 · 底座 3 / 桌面 10"
+        },
+        {
+          "variantId": "KWAD8FR_AL08+KWAD8GL_SU04",
+          "productRef": "KONI8",
+          "frameColor": "灰色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "KWAD8FR_AL08",
+            "KWAD8GL_SU04"
+          ],
+          "note": "可售 3 · 底座 3 / 桌面 4"
+        }
+      ]
+    },
+    "KOROHP120": {
+      "rows": [
+        {
+          "series": "KOROL",
+          "ref": "KOROHP120",
+          "code": "KOROHP120_HP07",
+          "name": "HPL TOP DIAM120CM FOR KORO3 - MARBLE MADE IN CHINA",
+          "spec": "○1200*12mm",
+          "available": 6,
+          "rowType": "top"
+        }
+      ],
+      "configs": []
+    },
+    "KORO27": {
+      "rows": [
+        {
+          "series": "KOROL",
+          "ref": "KORO27",
+          "code": "KORO27AL02",
+          "name": "SIDE TABLE KOROL AL02  边几  DX-003 棕",
+          "spec": "43*43*49CM",
+          "available": 5,
+          "rowType": "complete"
+        },
+        {
+          "series": "KOROL",
+          "ref": "KORO27",
+          "code": "KORO27LE04",
+          "name": "KOROL SIDE TABLE KORO27 - MAT BLACK",
+          "spec": "43*43*49CM",
+          "available": 5,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KORO27AL02",
+          "productRef": "KORO27",
+          "frameColor": "摩卡色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "KORO27AL02"
+          ],
+          "note": "可用 5 · 摩卡色"
+        },
+        {
+          "variantId": "KORO27LE04",
+          "productRef": "KORO27",
+          "frameColor": "黑色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "KORO27LE04"
+          ],
+          "note": "可用 5 · 黑色"
+        }
+      ]
+    },
+    "KROS4": {
+      "rows": [
+        {
+          "series": "KROSS",
+          "ref": "KROS4",
+          "code": "KROS4SOCK",
+          "name": "protection of seat cushion sock KROS4 坐垫 防水白布套带拉链",
+          "spec": "62*61cm",
+          "available": 20,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KROS4SOCK",
+          "productRef": "KROS4",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 20,
+          "sourceCodes": [
+            "KROS4SOCK"
+          ],
+          "note": "可用 20"
+        }
+      ]
+    },
+    "KROS5": {
+      "rows": [
+        {
+          "series": "KROSS",
+          "ref": "KROS5",
+          "code": "KROS5SOCK",
+          "name": "protection of seat cushion sock KROS5 坐垫无纺防水白布套带拉链",
+          "spec": "53*50cm",
+          "available": 20,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KROS5SOCK",
+          "productRef": "KROS5",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 20,
+          "sourceCodes": [
+            "KROS5SOCK"
+          ],
+          "note": "可用 20"
+        }
+      ]
+    },
+    "KROS1": {
+      "rows": [
+        {
+          "series": "KROSS",
+          "ref": "KROS1",
+          "code": "KROS1LE04",
+          "name": "长餐桌 Rectangulaire Dining Table with glass  top",
+          "spec": "200CM*100CM*73CM",
+          "available": 1,
+          "rowType": "top"
+        }
+      ],
+      "configs": []
+    },
+    "KROS8": {
+      "rows": [
+        {
+          "series": "KROSS",
+          "ref": "KROS8",
+          "code": "KROS8LE04",
+          "name": "正方形餐桌 Square Dining  Table",
+          "spec": "100CM*100CM*H73CM",
+          "available": 3,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KROS8LE04",
+          "productRef": "KROS8",
+          "frameColor": "黑色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "KROS8LE04"
+          ],
+          "note": "可用 3 · 黑色"
+        }
+      ]
+    },
+    "KROS18": {
+      "rows": [
+        {
+          "series": "KROSS",
+          "ref": "KROS18",
+          "code": "KROS18LE04",
+          "name": "方餐桌  Square  Table",
+          "spec": "80CM*80CM*H73CM",
+          "available": 2,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KROS18LE04",
+          "productRef": "KROS18",
+          "frameColor": "黑色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "KROS18LE04"
+          ],
+          "note": "可用 2 · 黑色"
+        }
+      ]
+    },
+    "KROS27W": {
+      "rows": [
+        {
+          "series": "KROSS",
+          "ref": "KROS27W",
+          "code": "KROS27WLE04",
+          "name": "小方桌 Side  Table KROS27W 按焊接固定",
+          "spec": "65CM*65CM*H55CM",
+          "available": 4,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KROS27WLE04",
+          "productRef": "KROS27W",
+          "frameColor": "黑色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "KROS27WLE04"
+          ],
+          "note": "可用 4 · 黑色"
+        }
+      ]
+    },
+    "KWAD23S": {
+      "rows": [
+        {
+          "series": "KWADRA",
+          "ref": "KWAD23S",
+          "code": "KWAD23S_AL08_PF02",
+          "name": "lounge chair KWAD matt",
+          "spec": "74*66*76cm",
+          "available": 6,
+          "rowType": "complete"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KWAD23S",
+          "code": "KWAD23SAL02LE13",
+          "name": "KWADRA LOUNGE CHAIR - STACKABLE - MOKA 摩卡",
+          "spec": "74*66*76CM",
+          "available": 1,
+          "rowType": "complete"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KWAD23S",
+          "code": "KWAD23SAL04PF01",
+          "name": "KWADRA LOUNGE CHAIR - STACKABLE - WHITE",
+          "spec": "74*66*76cm",
+          "available": 8,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KWAD23S_AL08_PF02",
+          "productRef": "KWAD23S",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色网布",
+          "status": "in_stock",
+          "quantity": 6,
+          "sourceCodes": [
+            "KWAD23S_AL08_PF02"
+          ],
+          "note": "可用 6 · 灰色 / 灰色网布"
+        },
+        {
+          "variantId": "KWAD23SAL02LE13",
+          "productRef": "KWAD23S",
+          "frameColor": "摩卡色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "KWAD23SAL02LE13"
+          ],
+          "note": "可用 1 · 摩卡色"
+        },
+        {
+          "variantId": "KWAD23SAL04PF01",
+          "productRef": "KWAD23S",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "白色网布",
+          "status": "in_stock",
+          "quantity": 8,
+          "sourceCodes": [
+            "KWAD23SAL04PF01"
+          ],
+          "note": "可用 8 · 白色 / 白色网布"
+        }
+      ]
+    },
+    "KWAD25S": {
+      "rows": [
+        {
+          "series": "KWADRA",
+          "ref": "KWAD25S",
+          "code": "KWAD25SAL02LE13",
+          "name": "KWADRA CHAISE LOUNGE (SUNBED) - STACKABLE - MOKA 摩卡色",
+          "spec": "201*74*34/106cm",
+          "available": 16,
+          "rowType": "complete"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KWAD25S",
+          "code": "KWAD25STADLE13",
+          "name": "SEAT & BACK CANVAS SET KWAD25S MOKA - SUNLOUNGER 棕色",
+          "spec": "",
+          "available": 10,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KWAD25SAL02LE13",
+          "productRef": "KWAD25S",
+          "frameColor": "摩卡色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 16,
+          "sourceCodes": [
+            "KWAD25SAL02LE13"
+          ],
+          "note": "可用 16 · 摩卡色"
+        },
+        {
+          "variantId": "KWAD25STADLE13",
+          "productRef": "KWAD25S",
+          "frameColor": "摩卡色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 10,
+          "sourceCodes": [
+            "KWAD25STADLE13"
+          ],
+          "note": "可用 10 · 摩卡色"
+        }
+      ]
+    },
+    "KWAD4S": {
+      "rows": [
+        {
+          "series": "KWADRA",
+          "ref": "KWAD4S",
+          "code": "KWAD4S_AL08_PF02",
+          "name": "stackable dining arm chair",
+          "spec": "57*57*86",
+          "available": 4,
+          "rowType": "complete"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KWAD4S",
+          "code": "KWAD4SAL02LE13",
+          "name": "stackable dining arm chair KWAD moka/wenge 摩卡色AL02",
+          "spec": "57*57*86",
+          "available": 22,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KWAD4S_AL08_PF02",
+          "productRef": "KWAD4S",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色网布",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "KWAD4S_AL08_PF02"
+          ],
+          "note": "可用 4 · 灰色 / 灰色网布"
+        },
+        {
+          "variantId": "KWAD4SAL02LE13",
+          "productRef": "KWAD4S",
+          "frameColor": "摩卡色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 22,
+          "sourceCodes": [
+            "KWAD4SAL02LE13"
+          ],
+          "note": "可用 22 · 摩卡色"
+        }
+      ]
+    },
+    "KWAD5S": {
+      "rows": [
+        {
+          "series": "KWADRA",
+          "ref": "KWAD5S",
+          "code": "KWAD5S_AL08_PF02",
+          "name": "stackable dining chair KWAD matt",
+          "spec": "48*57*86cm",
+          "available": 8,
+          "rowType": "complete"
+        },
+        {
+          "series": "KWADRA",
+          "ref": "KWAD5S",
+          "code": "KWAD5SAL02LE13",
+          "name": "stackable dining chair KWAD moka/wenge 摩卡色 棕",
+          "spec": "48*57*86cm",
+          "available": 18,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KWAD5S_AL08_PF02",
+          "productRef": "KWAD5S",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "灰色网布",
+          "status": "in_stock",
+          "quantity": 8,
+          "sourceCodes": [
+            "KWAD5S_AL08_PF02"
+          ],
+          "note": "可用 8 · 灰色 / 灰色网布"
+        },
+        {
+          "variantId": "KWAD5SAL02LE13",
+          "productRef": "KWAD5S",
+          "frameColor": "摩卡色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 18,
+          "sourceCodes": [
+            "KWAD5SAL02LE13"
+          ],
+          "note": "可用 18 · 摩卡色"
+        }
+      ]
+    },
+    "KWAD27N": {
+      "rows": [
+        {
+          "series": "KWADRA",
+          "ref": "KWAD27N",
+          "code": "KWAD27NAL02SU04",
+          "name": "KWADRA SIDE TABLE KWAD27N MOKA  摩卡色",
+          "spec": "48*48*33cm",
+          "available": 9,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "KWAD27NAL02SU04",
+          "productRef": "KWAD27N",
+          "frameColor": "摩卡色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "摩卡玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 9,
+          "sourceCodes": [
+            "KWAD27NAL02SU04"
+          ],
+          "note": "可用 9 · 摩卡色"
+        }
+      ]
+    },
+    "NABA23": {
+      "rows": [
+        {
+          "series": "NABAB",
+          "ref": "NABA23",
+          "code": "NABAB23",
+          "name": "NABAB TEAK LOUNGE CHAIR",
+          "spec": "84*81*60CM",
+          "available": 7,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "NABAB23",
+          "productRef": "NABA23",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 7,
+          "sourceCodes": [
+            "NABAB23"
+          ],
+          "note": "可用 7"
+        }
+      ]
+    },
+    "NABA30": {
+      "rows": [
+        {
+          "series": "NABAB",
+          "ref": "NABA30",
+          "code": "NABAB30",
+          "name": "NABAB TEAK DAYBE",
+          "spec": "198*75*23.5CM",
+          "available": 3,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "NABAB30",
+          "productRef": "NABA30",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "NABAB30"
+          ],
+          "note": "可用 3"
+        }
+      ]
+    },
+    "NABA6": {
+      "rows": [
+        {
+          "series": "NABAB",
+          "ref": "NABA6",
+          "code": "NABAB6",
+          "name": "NABAB DIRECTOR CHAIR",
+          "spec": "55*58*87CM",
+          "available": 17,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "NABAB6",
+          "productRef": "NABA6",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 17,
+          "sourceCodes": [
+            "NABAB6"
+          ],
+          "note": "可用 17"
+        }
+      ]
+    },
+    "NABA29": {
+      "rows": [
+        {
+          "series": "NABAB",
+          "ref": "NABA29",
+          "code": "NABAB29",
+          "name": "NABAB TEAK DECK CHAIR",
+          "spec": "71*101*86CM",
+          "available": 2,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "NABAB29",
+          "productRef": "NABA29",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "NABAB29"
+          ],
+          "note": "可用 2"
+        }
+      ]
+    },
+    "NABA26": {
+      "rows": [
+        {
+          "series": "NABAB",
+          "ref": "NABA26",
+          "code": "NABA26C",
+          "name": "NABA26 ceramic top",
+          "spec": "1241*441*12mm",
+          "available": 2,
+          "rowType": "top"
+        },
+        {
+          "series": "NABAB",
+          "ref": "NABA26",
+          "code": "NABAB26",
+          "name": "NABAB TEAK RETANGULAR TABLE FRAME",
+          "spec": "140*60*26CM",
+          "available": 3,
+          "rowType": "base"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "NABAB26+NABA26C",
+          "productRef": "NABA26",
+          "frameColor": "",
+          "tabletopType": "陶瓷",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "NABAB26",
+            "NABA26C"
+          ],
+          "note": "可售 2 · 底座 3 / 桌面 2"
+        }
+      ]
+    },
+    "NABA27": {
+      "rows": [
+        {
+          "series": "NABAB",
+          "ref": "NABA27",
+          "code": "NABA27C",
+          "name": "NABA27 ceramic top",
+          "spec": "791*791*12mm",
+          "available": 3,
+          "rowType": "top"
+        },
+        {
+          "series": "NABAB",
+          "ref": "NABA27",
+          "code": "NABAB27",
+          "name": "NABAB TEAKSQUARE TABLE FRAME",
+          "spec": "96*96*35CM",
+          "available": 3,
+          "rowType": "base"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "NABAB27+NABA27C",
+          "productRef": "NABA27",
+          "frameColor": "",
+          "tabletopType": "陶瓷",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "NABAB27",
+            "NABA27C"
+          ],
+          "note": "可售 3 · 底座 3 / 桌面 3"
+        }
+      ]
+    },
+    "OSKA6": {
+      "rows": [
+        {
+          "series": "OSKAR",
+          "ref": "OSKA6",
+          "code": "OSKA6AL04PF01",
+          "name": "Director chair laqued white MAT alu+ white mesh  亚光白",
+          "spec": "54*55*88cm",
+          "available": 35,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OSKA6AL04PF01",
+          "productRef": "OSKA6",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "白色网布",
+          "status": "in_stock",
+          "quantity": 35,
+          "sourceCodes": [
+            "OSKA6AL04PF01"
+          ],
+          "note": "可用 35 · 白色 / 白色网布"
+        }
+      ]
+    },
+    "OSKA16": {
+      "rows": [
+        {
+          "series": "OSKAR",
+          "ref": "OSKA16",
+          "code": "OSKA16PIEDAL02",
+          "name": "FOLDING TABLE FRAME taupe 棕色 AL02 翻转台底座（铝材+铁板）",
+          "spec": "51*41*72CM",
+          "available": 6,
+          "rowType": "base"
+        },
+        {
+          "series": "OSKAR",
+          "ref": "OSKA16",
+          "code": "OSKA16PIEDAL04",
+          "name": "FOLDING TABLE FRAME WHITE AL04",
+          "spec": "51*41*72CM",
+          "available": 33,
+          "rowType": "base"
+        },
+        {
+          "series": "OSKAR",
+          "ref": "OSKA16",
+          "code": "OSKA16TS_TS01",
+          "name": "SYNTHETIC TOP FOR OSKA16 WHITE MARBLE纳米蜂巢板  哥尼白",
+          "spec": "71*71*1.8CM",
+          "available": 2,
+          "rowType": "top"
+        },
+        {
+          "series": "OSKAR",
+          "ref": "OSKA16",
+          "code": "OSKA16TS_TS02",
+          "name": "SYNTHETIC TOP FOR OSKA16 GREY 纳米蜂巢板 水泥灰",
+          "spec": "71*71*1.8CM",
+          "available": 2,
+          "rowType": "top"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OSKA16PIEDAL02+OSKA16TS_TS01",
+          "productRef": "OSKA16",
+          "frameColor": "摩卡色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "OSKA16PIEDAL02",
+            "OSKA16TS_TS01"
+          ],
+          "note": "可售 2 · 底座 6 / 桌面 2"
+        },
+        {
+          "variantId": "OSKA16PIEDAL02+OSKA16TS_TS02",
+          "productRef": "OSKA16",
+          "frameColor": "摩卡色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "OSKA16PIEDAL02",
+            "OSKA16TS_TS02"
+          ],
+          "note": "可售 2 · 底座 6 / 桌面 2"
+        },
+        {
+          "variantId": "OSKA16PIEDAL04+OSKA16TS_TS01",
+          "productRef": "OSKA16",
+          "frameColor": "白色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "OSKA16PIEDAL04",
+            "OSKA16TS_TS01"
+          ],
+          "note": "可售 2 · 底座 33 / 桌面 2"
+        },
+        {
+          "variantId": "OSKA16PIEDAL04+OSKA16TS_TS02",
+          "productRef": "OSKA16",
+          "frameColor": "白色",
+          "tabletopType": "桌面",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "OSKA16PIEDAL04",
+            "OSKA16TS_TS02"
+          ],
+          "note": "可售 2 · 底座 33 / 桌面 2"
+        }
+      ]
+    },
+    "OUTL22": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL22",
+          "code": "OUTL22_AL04",
+          "name": "OUTL22 WITH 2 ARMERESTS IN TEAK WITH SAME SIZE AS OUTL22",
+          "spec": "180*105*67CM",
+          "available": 5,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OUTL22_AL04",
+          "productRef": "OUTL22",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "OUTL22_AL04"
+          ],
+          "note": "可用 5 · 白色"
+        }
+      ]
+    },
+    "OUTL24": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL24",
+          "code": "OUTL24_AL04",
+          "name": "OUTLINE OTTOMAN chair 脚蹬",
+          "spec": "90*90*H25CM",
+          "available": 4,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OUTL24_AL04",
+          "productRef": "OUTL24",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "OUTL24_AL04"
+          ],
+          "note": "可用 4 · 白色"
+        }
+      ]
+    },
+    "OUTL100": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL100",
+          "code": "OUTL100_AL04_BV01",
+          "name": "CENTER MODULE   沙发",
+          "spec": "105*92*H 67CM",
+          "available": 4,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OUTL100_AL04_BV01",
+          "productRef": "OUTL100",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "柚木",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "OUTL100_AL04_BV01"
+          ],
+          "note": "可用 4 · 白色 / 柚木"
+        }
+      ]
+    },
+    "OUTL101": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL101",
+          "code": "OUTL101_AL04_BV01",
+          "name": "CORNER ARMCHAIR  角沙发",
+          "spec": "105*105*H 67CM",
+          "available": 4,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OUTL101_AL04_BV01",
+          "productRef": "OUTL101",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "柚木",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "OUTL101_AL04_BV01"
+          ],
+          "note": "可用 4 · 白色 / 柚木"
+        }
+      ]
+    },
+    "OUTL104": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL104",
+          "code": "OUTL104_AL04_BV01",
+          "name": "LOUNGE CHAIR RIGHT ARM  躺椅右侧轮",
+          "spec": "123*105*67CM",
+          "available": 5,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OUTL104_AL04_BV01",
+          "productRef": "OUTL104",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "柚木",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "OUTL104_AL04_BV01"
+          ],
+          "note": "可用 5 · 白色 / 柚木"
+        }
+      ]
+    },
+    "OUTL105": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL105",
+          "code": "OUTL105_AL04_BV01",
+          "name": "LOUNGE CHAIR LEFT ARM  躺椅左侧轮",
+          "spec": "123*105*67CM",
+          "available": 5,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OUTL105_AL04_BV01",
+          "productRef": "OUTL105",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "柚木",
+          "status": "in_stock",
+          "quantity": 5,
+          "sourceCodes": [
+            "OUTL105_AL04_BV01"
+          ],
+          "note": "可用 5 · 白色 / 柚木"
+        }
+      ]
+    },
+    "OUTL4S": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL4S",
+          "code": "OUTL4S_AL04_BV01",
+          "name": "DINING ARMCHAIR 可堆叠的餐扶手椅",
+          "spec": "66*54*85",
+          "available": 8,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OUTL4S_AL04_BV01",
+          "productRef": "OUTL4S",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "柚木",
+          "status": "in_stock",
+          "quantity": 8,
+          "sourceCodes": [
+            "OUTL4S_AL04_BV01"
+          ],
+          "note": "可用 8 · 白色 / 柚木"
+        }
+      ]
+    },
+    "OUTL5S": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL5S",
+          "code": "OUTL5S_AL04_BV01",
+          "name": "DINING CHAIR 可折叠餐椅轮",
+          "spec": "53*54*85CM",
+          "available": 16,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OUTL5S_AL04_BV01",
+          "productRef": "OUTL5S",
+          "frameColor": "白色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "柚木",
+          "status": "in_stock",
+          "quantity": 16,
+          "sourceCodes": [
+            "OUTL5S_AL04_BV01"
+          ],
+          "note": "可用 16 · 白色 / 柚木"
+        }
+      ]
+    },
+    "OUTL2": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL2",
+          "code": "OUTL2_AL04",
+          "name": "DINING TABLE OUTLINE OBLONG 220X100 FRAME 餐桌",
+          "spec": "217*97*73.5CM",
+          "available": 4,
+          "rowType": "base"
+        },
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL2",
+          "code": "OUTL2C_CE08",
+          "name": "OUTLINE CERAMIC TOP OVAL 椭圆 CE08",
+          "spec": "2200*1000*12MM",
+          "available": 1,
+          "rowType": "top"
+        },
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL2",
+          "code": "OUTL2GL_SU08",
+          "name": "GLASS TOP FOR OUTL2  GREY",
+          "spec": "2200*1000*10MM",
+          "available": 9,
+          "rowType": "top"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OUTL2_AL04+OUTL2C_CE08",
+          "productRef": "OUTL2",
+          "frameColor": "白色",
+          "tabletopType": "陶瓷",
+          "tabletopColor": "灰色陶瓷",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "OUTL2_AL04",
+            "OUTL2C_CE08"
+          ],
+          "note": "可售 1 · 底座 4 / 桌面 1"
+        },
+        {
+          "variantId": "OUTL2_AL04+OUTL2GL_SU08",
+          "productRef": "OUTL2",
+          "frameColor": "白色",
+          "tabletopType": "玻璃",
+          "tabletopColor": "灰色玻璃",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "OUTL2_AL04",
+            "OUTL2GL_SU08"
+          ],
+          "note": "可售 4 · 底座 4 / 桌面 9"
+        }
+      ]
+    },
+    "OUTL27": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL27",
+          "code": "OUTL27_AL04",
+          "name": "SIDE TABLE OUTLINE DIAM 60 H 55 FRAME 桌框架",
+          "spec": "DIA 60* 54",
+          "available": 6,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "OUTL29": {
+      "rows": [
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL29",
+          "code": "OUTL29_AL04",
+          "name": "COCKTAIL TABLE OUTLINE DIAM 110 H 40 FRAME 鸡尾酒桌",
+          "spec": "DIA114*39CM",
+          "available": 4,
+          "rowType": "base"
+        },
+        {
+          "series": "OUTLINE",
+          "ref": "OUTL29",
+          "code": "OUTL29C_CE08",
+          "name": "COCKTAIL TABLE OUTLINE DIAM 110 H 40 FRAME 鸡尾酒桌 CE08",
+          "spec": "DIA110 * 1.2CM",
+          "available": 10,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "OXFO5": {
+      "rows": [
+        {
+          "series": "OXFORD",
+          "ref": "OXFO5",
+          "code": "OXFO5LE04",
+          "name": "OXFORD DINING SIDE CHAIR STRUCTURE BLACK 无扶手铝管餐椅（铝材）",
+          "spec": "54*54*(82+46.5)CM",
+          "available": 4,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OXFO5LE04",
+          "productRef": "OXFO5",
+          "frameColor": "黑色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "OXFO5LE04"
+          ],
+          "note": "可用 4 · 黑色"
+        }
+      ]
+    },
+    "OXFO1N": {
+      "rows": [
+        {
+          "series": "OXFORD",
+          "ref": "OXFO1N",
+          "code": "OXFO1NLE04",
+          "name": "DINING TABLE OXFO1 230 X 100 BLACK - NO HOLES  黑 长餐台无孔（铝材",
+          "spec": "230*100*H75cm",
+          "available": 6,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OXFO1NLE04",
+          "productRef": "OXFO1N",
+          "frameColor": "黑色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 6,
+          "sourceCodes": [
+            "OXFO1NLE04"
+          ],
+          "note": "可用 6 · 黑色"
+        }
+      ]
+    },
+    "OXFO8": {
+      "rows": [
+        {
+          "series": "OXFORD",
+          "ref": "OXFO8",
+          "code": "OXFO8_AL13",
+          "name": "OXOF DINING SQUARE TABLE 100*100餐台 （铝材）",
+          "spec": "100*100*H75CM",
+          "available": 2,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OXFO8_AL13",
+          "productRef": "OXFO8",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "OXFO8_AL13"
+          ],
+          "note": "可用 2 · 灰色"
+        }
+      ]
+    },
+    "OXFO8N": {
+      "rows": [
+        {
+          "series": "OXFORD",
+          "ref": "OXFO8N",
+          "code": "OXFO8NLE04",
+          "name": "DINING TABLE OXFO8 100 X 100 BLACK - NO HOLES  黑 餐台无孔（铝材）",
+          "spec": "100*100*H75CM",
+          "available": 1,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "OXFO8NLE04",
+          "productRef": "OXFO8N",
+          "frameColor": "黑色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "OXFO8NLE04"
+          ],
+          "note": "可用 1 · 黑色"
+        }
+      ]
+    },
+    "OXFO26": {
+      "rows": [
+        {
+          "series": "OXFORD",
+          "ref": "OXFO26",
+          "code": "OXFO26T_TR3",
+          "name": "TABLE TOP TERRAZZO FOR OXFO26 BEIGE 米灰水磨石纹 YZD064",
+          "spec": "1400*900*9MM",
+          "available": 5,
+          "rowType": "top"
+        }
+      ],
+      "configs": []
+    },
+    "PALM23": {
+      "rows": [
+        {
+          "series": "PALM SPRINGS",
+          "ref": "PALM23",
+          "code": "PALM23_AL08",
+          "name": "small lounge chair curve AL08",
+          "spec": "98*71*83.5CM",
+          "available": 8,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "PALM23_AL08",
+          "productRef": "PALM23",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 8,
+          "sourceCodes": [
+            "PALM23_AL08"
+          ],
+          "note": "可用 8 · 灰色"
+        }
+      ]
+    },
+    "PALM25": {
+      "rows": [
+        {
+          "series": "PALM SPRINGS",
+          "ref": "PALM25",
+          "code": "PALM25_AL08",
+          "name": "sunbed curve  躺床 AL08",
+          "spec": "210*84*H35CM",
+          "available": 8,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "PALM25_AL08",
+          "productRef": "PALM25",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 8,
+          "sourceCodes": [
+            "PALM25_AL08"
+          ],
+          "note": "可用 8 · 灰色"
+        }
+      ]
+    },
+    "PALM28": {
+      "rows": [
+        {
+          "series": "PALM SPRINGS",
+          "ref": "PALM28",
+          "code": "PALM28AL08",
+          "name": "PALM28_AL08 椅",
+          "spec": "136*97*83CM",
+          "available": 9,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "PALM28AL08",
+          "productRef": "PALM28",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 9,
+          "sourceCodes": [
+            "PALM28AL08"
+          ],
+          "note": "可用 9 · 灰色"
+        }
+      ]
+    },
+    "RIRA21": {
+      "rows": [
+        {
+          "series": "RIVIERA",
+          "ref": "RIRA21",
+          "code": "RIRA21CD_ME55",
+          "name": "RIVIERA BACK  CUSHION FOR THREE SEAT SOFA  ME55",
+          "spec": "75*150*10CM",
+          "available": 1,
+          "rowType": "complete"
+        },
+        {
+          "series": "RIVIERA",
+          "ref": "RIRA21",
+          "code": "RIRA21CD_PN21",
+          "name": "RIVIERA SET OF 2 BACK CUSHION FOR THREE SEAT SOFA SAVANE GRANIT",
+          "spec": "80*3*47",
+          "available": 2,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "RIRA21CD_ME55",
+          "productRef": "RIRA21",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "RIRA21CD_ME55"
+          ],
+          "note": "可用 1"
+        },
+        {
+          "variantId": "RIRA21CD_PN21",
+          "productRef": "RIRA21",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "RIRA21CD_PN21"
+          ],
+          "note": "可用 2"
+        }
+      ]
+    },
+    "RIRA22": {
+      "rows": [
+        {
+          "series": "RIVIERA",
+          "ref": "RIRA22",
+          "code": "RIRA22CD_PN21",
+          "name": "RIVIERA SET OF 2 BACK CUSHION FOR TWO SEAT SOFA SAVANE GRANIT",
+          "spec": "63*49*20CM",
+          "available": 6,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "RIRA22CD_PN21",
+          "productRef": "RIRA22",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 6,
+          "sourceCodes": [
+            "RIRA22CD_PN21"
+          ],
+          "note": "可用 6"
+        }
+      ]
+    },
+    "RIRA4": {
+      "rows": [
+        {
+          "series": "RIVIERA",
+          "ref": "RIRA4",
+          "code": "RIRA4_TW01",
+          "name": "LOW BACK SIDE  CHAIR  矮背扶手餐椅",
+          "spec": "59*63*83CM",
+          "available": 3,
+          "rowType": "complete"
+        },
+        {
+          "series": "RIVIERA",
+          "ref": "RIRA4",
+          "code": "RIRA4TW01",
+          "name": "LOW BACK SIDE  CHAIR  矮背扶手餐椅 TW01深灰",
+          "spec": "W60.5*D58.5*H80CM",
+          "available": 16,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "RIRA4_TW01",
+          "productRef": "RIRA4",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "RIRA4_TW01"
+          ],
+          "note": "可用 3"
+        },
+        {
+          "variantId": "RIRA4TW01",
+          "productRef": "RIRA4",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 16,
+          "sourceCodes": [
+            "RIRA4TW01"
+          ],
+          "note": "可用 16"
+        }
+      ]
+    },
+    "RIRA4HB": {
+      "rows": [
+        {
+          "series": "RIVIERA",
+          "ref": "RIRA4HB",
+          "code": "RIRA4HB_TW01",
+          "name": "HIGH BACK SIDE  CHAIR",
+          "spec": "W54.5*D61.5*H110",
+          "available": 1,
+          "rowType": "complete"
+        },
+        {
+          "series": "RIVIERA",
+          "ref": "RIRA4HB",
+          "code": "RIRA4HBTW01",
+          "name": "HIGH BACK SIDE  CHAIR TW01",
+          "spec": "W58.5*D63*H110CM",
+          "available": 32,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "RIRA4HB_TW01",
+          "productRef": "RIRA4HB",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "RIRA4HB_TW01"
+          ],
+          "note": "可用 1"
+        },
+        {
+          "variantId": "RIRA4HBTW01",
+          "productRef": "RIRA4HB",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 32,
+          "sourceCodes": [
+            "RIRA4HBTW01"
+          ],
+          "note": "可用 32"
+        }
+      ]
+    },
+    "RIRA32": {
+      "rows": [
+        {
+          "series": "RIVIERA",
+          "ref": "RIRA32",
+          "code": "RIRA32_TW01",
+          "name": "RIVIERA  LOUNGE CHAIR  ALU. FRAME 休闲椅",
+          "spec": "W90*D90*H68CM",
+          "available": 5,
+          "rowType": "base"
+        }
+      ],
+      "configs": []
+    },
+    "RIRA33": {
+      "rows": [
+        {
+          "series": "RIVIERA",
+          "ref": "RIRA33",
+          "code": "RIRA33_TW02",
+          "name": "RIVIERA  LOUNGE CHAIR STAINLESS STEEL WITH ROPE",
+          "spec": "W98.5*D73.5*H74",
+          "available": 3,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "RIRA33_TW02",
+          "productRef": "RIRA33",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "RIRA33_TW02"
+          ],
+          "note": "可用 3"
+        }
+      ]
+    },
+    "YAKI21": {
+      "rows": [
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI21",
+          "code": "YAKI21AL08YA11",
+          "name": "SOFA 3-SEATER - Brown  棕 编织款三人沙发（铝架+特丝林织带）",
+          "spec": "W213*D82*H84cm",
+          "available": 2,
+          "rowType": "complete"
+        },
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI21",
+          "code": "YAKI21AL08YA28",
+          "name": "SOFA 3-SEATER - Light Grey 灰 编织款三人沙发（铝架+特丝林织带）",
+          "spec": "W213*D82*H84cm",
+          "available": 4,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "YAKI21AL08YA11",
+          "productRef": "YAKI21",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "棕色编织",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "YAKI21AL08YA11"
+          ],
+          "note": "可用 2 · 灰色 / 棕色编织"
+        },
+        {
+          "variantId": "YAKI21AL08YA28",
+          "productRef": "YAKI21",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰编织",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "YAKI21AL08YA28"
+          ],
+          "note": "可用 4 · 灰色 / 浅灰编织"
+        }
+      ]
+    },
+    "YAKI22": {
+      "rows": [
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI22",
+          "code": "YAKI22_AL08_YA11",
+          "name": "SOFA 2 PLACES YAKIMOUR. STRUCTURE IN GREY AL08 棕",
+          "spec": "172*82*H85CM",
+          "available": 3,
+          "rowType": "complete"
+        },
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI22",
+          "code": "YAKI22CA_I14",
+          "name": "YAKI22CA 坐垫 I14 蓝色",
+          "spec": "",
+          "available": 1,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "YAKI22_AL08_YA11",
+          "productRef": "YAKI22",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "棕色编织",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "YAKI22_AL08_YA11"
+          ],
+          "note": "可用 3 · 灰色 / 棕色编织"
+        },
+        {
+          "variantId": "YAKI22CA_I14",
+          "productRef": "YAKI22",
+          "frameColor": "",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 1,
+          "sourceCodes": [
+            "YAKI22CA_I14"
+          ],
+          "note": "可用 1"
+        }
+      ]
+    },
+    "YAKI23": {
+      "rows": [
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI23",
+          "code": "YAKI23AL08YA11",
+          "name": "FAUTEUIL SALON YAKIMOUR. STRUCTURE IN GREY AL08 YA11棕",
+          "spec": "72*78*H110CM",
+          "available": 7,
+          "rowType": "complete"
+        },
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI23",
+          "code": "YAKI23AL08YA28",
+          "name": "FAUTEUIL SALON YAKIMOUR. STRUCTURE IN GREY AL08 YA28浅灰",
+          "spec": "72*78*H110CM",
+          "available": 6,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "YAKI23AL08YA11",
+          "productRef": "YAKI23",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "棕色编织",
+          "status": "in_stock",
+          "quantity": 7,
+          "sourceCodes": [
+            "YAKI23AL08YA11"
+          ],
+          "note": "可用 7 · 灰色 / 棕色编织"
+        },
+        {
+          "variantId": "YAKI23AL08YA28",
+          "productRef": "YAKI23",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰编织",
+          "status": "in_stock",
+          "quantity": 6,
+          "sourceCodes": [
+            "YAKI23AL08YA28"
+          ],
+          "note": "可用 6 · 灰色 / 浅灰编织"
+        }
+      ]
+    },
+    "YAKI24": {
+      "rows": [
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI24",
+          "code": "YAKI24AL08YA11",
+          "name": "POUF YAKIMOUR . STRUCTURE IN GREY AL08 YA11棕 脚蹬",
+          "spec": "64*51*H9CM",
+          "available": 4,
+          "rowType": "complete"
+        },
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI24",
+          "code": "YAKI24AL08YA28",
+          "name": "POUF YAKIMOUR . STRUCTURE IN GREY  AL08 浅灰",
+          "spec": "64*51*H9CM",
+          "available": 4,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "YAKI24AL08YA11",
+          "productRef": "YAKI24",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "棕色编织",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "YAKI24AL08YA11"
+          ],
+          "note": "可用 4 · 灰色 / 棕色编织"
+        },
+        {
+          "variantId": "YAKI24AL08YA28",
+          "productRef": "YAKI24",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰编织",
+          "status": "in_stock",
+          "quantity": 4,
+          "sourceCodes": [
+            "YAKI24AL08YA28"
+          ],
+          "note": "可用 4 · 灰色 / 浅灰编织"
+        }
+      ]
+    },
+    "YAKI30": {
+      "rows": [
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI30",
+          "code": "YAKI30AL08YA11",
+          "name": "DAYBED - Brown 棕  躺床 （铝架+特丝林织带）",
+          "spec": "174*136*83CM",
+          "available": 2,
+          "rowType": "complete"
+        },
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI30",
+          "code": "YAKI30AL08YA28",
+          "name": "DAYBED  Light Grey 灰 躺床 （铝架+特丝林织带）",
+          "spec": "174*136*83CM",
+          "available": 2,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "YAKI30AL08YA11",
+          "productRef": "YAKI30",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "棕色编织",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "YAKI30AL08YA11"
+          ],
+          "note": "可用 2 · 灰色 / 棕色编织"
+        },
+        {
+          "variantId": "YAKI30AL08YA28",
+          "productRef": "YAKI30",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰编织",
+          "status": "in_stock",
+          "quantity": 2,
+          "sourceCodes": [
+            "YAKI30AL08YA28"
+          ],
+          "note": "可用 2 · 灰色 / 浅灰编织"
+        }
+      ]
+    },
+    "YAKI31": {
+      "rows": [
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI31",
+          "code": "YAKI31AL08YA11",
+          "name": "LARGE LOUNGE CHAIR - Brown 棕  加大休闲椅（铝架+特丝林织带）",
+          "spec": "100*83*83CM",
+          "available": 3,
+          "rowType": "complete"
+        },
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKI31",
+          "code": "YAKI31AL08YA28",
+          "name": "LARGE LOUNGE CHAIR - Light Grey 浅灰  加大休闲椅（铝架+特丝林织带）",
+          "spec": "100*83*83CM",
+          "available": 6,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "YAKI31AL08YA11",
+          "productRef": "YAKI31",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "棕色编织",
+          "status": "in_stock",
+          "quantity": 3,
+          "sourceCodes": [
+            "YAKI31AL08YA11"
+          ],
+          "note": "可用 3 · 灰色 / 棕色编织"
+        },
+        {
+          "variantId": "YAKI31AL08YA28",
+          "productRef": "YAKI31",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰编织",
+          "status": "in_stock",
+          "quantity": 6,
+          "sourceCodes": [
+            "YAKI31AL08YA28"
+          ],
+          "note": "可用 6 · 灰色 / 浅灰编织"
+        }
+      ]
+    },
+    "YAKIL4": {
+      "rows": [
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKIL4",
+          "code": "YAKIL4AL08YA28",
+          "name": "YAKIMOUR FLOOR LAMP. STRUCTURE IN GREY AL08 YA28 浅灰",
+          "spec": "46*46*160CM",
+          "available": 14,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "YAKIL4AL08YA28",
+          "productRef": "YAKIL4",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰编织",
+          "status": "in_stock",
+          "quantity": 14,
+          "sourceCodes": [
+            "YAKIL4AL08YA28"
+          ],
+          "note": "可用 14 · 灰色 / 浅灰编织"
+        }
+      ]
+    },
+    "YAKIL5": {
+      "rows": [
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKIL5",
+          "code": "YAKIL5_AL08_YA26",
+          "name": "YAKIMOUR TABLE LAMP. GREY AL08 turchese蓝(铝架+特丝林织带+太阳能灯）",
+          "spec": "48*48*H45CM",
+          "available": 7,
+          "rowType": "complete"
+        },
+        {
+          "series": "YAKIMOUR",
+          "ref": "YAKIL5",
+          "code": "YAKIL5AL08YA28",
+          "name": "YAKIMOUR TABLE LAMP LIGHT GREY浅灰(铝架+特丝林织带太阳能AL08 YA28 Light Grey",
+          "spec": "48*48*H45CM",
+          "available": 39,
+          "rowType": "complete"
+        }
+      ],
+      "configs": [
+        {
+          "variantId": "YAKIL5_AL08_YA26",
+          "productRef": "YAKIL5",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "",
+          "status": "in_stock",
+          "quantity": 7,
+          "sourceCodes": [
+            "YAKIL5_AL08_YA26"
+          ],
+          "note": "可用 7 · 灰色"
+        },
+        {
+          "variantId": "YAKIL5AL08YA28",
+          "productRef": "YAKIL5",
+          "frameColor": "灰色",
+          "tabletopType": "",
+          "tabletopColor": "",
+          "material": "浅灰编织",
+          "status": "in_stock",
+          "quantity": 39,
+          "sourceCodes": [
+            "YAKIL5AL08YA28"
+          ],
+          "note": "可用 39 · 灰色 / 浅灰编织"
+        }
+      ]
+    }
+  },
+  "excluded": [
+    {
+      "code": "BASK22CAD_ME20",
+      "name": "SEAT CUSHION FOR BASKET LOVE SOFA WHITE",
+      "ref": "BASK22",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BASK22CADN_ME21",
+      "name": "SEAT CUSHION FOR BASKET LOVE SOFA GREY配新款的背垫",
+      "ref": "BASK22",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BASK23CAD_ME20",
+      "name": "SEAT CUSHION FOR BASKET LOUNGE CHAIR  WHITE",
+      "ref": "BASK23",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BASK23CAD_ME21",
+      "name": "SEAT CUSHION FOR BASKET LOUNGE CHAIR GREY",
+      "ref": "BASK23",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BASK23CADN_ME21",
+      "name": "SEAT AND BACK CUSHION NATTE GREY CHINE",
+      "ref": "BASK23",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BASK25CAD_ME21",
+      "name": "CUSHION FOR SUN LOUNGER BASKET GREY",
+      "ref": "BASK25",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BASK4CA_ME20",
+      "name": "SEAT CUSHION FOR BASKET DINING CHAIR WHITE",
+      "ref": "BASK4",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BASK6SCAME21",
+      "name": "Dining Armchair  ME21",
+      "ref": "BASK6S",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BASK90CA_ME21",
+      "name": "SEAT CUSHION BAR STOOL GREY NATTE",
+      "ref": "BASK90",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BIGROLL21H",
+      "name": "COVER 3 SEATER  三人座沙发防尘套",
+      "ref": "BIGROLL21",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BIGROLL22H",
+      "name": "COVER 2 SEATER  两人座沙发防尘套",
+      "ref": "BIGROLL22",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BIGROLL23H",
+      "name": "COVER LOUNGE CHAIR 防尘套",
+      "ref": "BIGROLL23",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BIGROLL26H",
+      "name": "COVER COCKTAIL TABLE   防尘套",
+      "ref": "BIGROLL26",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BIGROLL3H",
+      "name": "COVER DINING TABLE 120 CM  防尘套",
+      "ref": "BIGROLL3",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "BIGROLL4H_WE13",
+      "name": "BIGROLL  DINING CHAIR   WE13防尘套",
+      "ref": "BIGROLL4",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "KALI101CAME20",
+      "name": "SEAT CUSHION FOR ANGLE ARMCHAIR  KALIF WHITE",
+      "ref": "KALI101",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "KALI23CAME20",
+      "name": "SEAT CUSHION FOR KALI23 NATTE  WHITE",
+      "ref": "KALI23",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "KALI24CA_ME21",
+      "name": "SEAT CUSHION FOR KALI24 OTTOMAN NATTE GREY",
+      "ref": "KALI24C",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "KOMF4CA_ME09",
+      "name": "Seat cushion dining armchair Komf white",
+      "ref": "KOMF4",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "KOMF5CA_ME05",
+      "name": "Seat cushion dining chair Komf taupe",
+      "ref": "KOMF5",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "KOMF5CA_ME17",
+      "name": "Seat cushion dining chair Komf taupe ME17 GREY",
+      "ref": "KOMF5",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "PALM29CA_ME21",
+      "name": "PALM SPRINGS DAY BED CUSHION IN NATTE GREY CHINE",
+      "ref": "PALM29",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "RIRA21CAD_ME55",
+      "name": "RIVIERA SEAT AND BACK CUSHION FOR THREE SEAT SOFA NATTE",
+      "ref": "RIRA21",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "RIRA22CAD_ME54",
+      "name": "RIVIERA SEAT  AND BACK CUSHION FOR TWO SEAT SOFA  NATTE ME54",
+      "ref": "RIRA22",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "RIRA23CAD_ME54",
+      "name": "RIRA23 CUSHIONS IN SAVANE WHITE ME54",
+      "ref": "RIRA23",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "RIRA23CAD_PN21",
+      "name": "SEAT  AND BACK CUSHION FOR LOUNGE CHAIR PN21",
+      "ref": "RIRA23",
+      "reason": "cushion/fabric/cover"
+    },
+    {
+      "code": "RIRA23CD_PN21",
+      "name": "DECO  CUSHIONS FOR LOUNGE CHAIR",
+      "ref": "RIRA23",
+      "reason": "cushion/fabric/cover"
+    }
+  ],
+  "unmatched": [
+    {
+      "code": "BASK28_AL08",
+      "name": "SIDE TABLE BASKET GREY",
+      "available": 10
+    },
+    {
+      "code": "BIGROLL1D_SU01",
+      "name": "DINING TABLE 2365X1165 CERAMIC TOP  玻璃",
+      "available": 1
+    },
+    {
+      "code": "BIGROLL1H",
+      "name": "COVER DINING TABLE 240  防尘套",
+      "available": 2
+    },
+    {
+      "code": "DECO4040S_3714",
+      "name": "Cushion 40*40 ME30 DUPIONE 小抱枕 yellow NEW -AGORA 3714",
+      "available": 12
+    },
+    {
+      "code": "DECO4040S_COM",
+      "name": "Cushion 40*40 小抱枕 来布",
+      "available": 6
+    },
+    {
+      "code": "DECO4040S_ME05",
+      "name": "Cushion 40*40 小抱枕来布 TAUPE",
+      "available": 1
+    },
+    {
+      "code": "DECO4040S_ME30",
+      "name": "Cushion 40*40 ME30 DUPIONE 小抱枕",
+      "available": 2
+    },
+    {
+      "code": "DECO4040S_ME48",
+      "name": "Cushion 40*40 ME30 DUPIONE 小抱枕 yellow NEW",
+      "available": 6
+    },
+    {
+      "code": "DECO4040S_ME50",
+      "name": "Cushion 40*40 ME30 DUPIONE 小抱枕 yellow NEW-1",
+      "available": 43
+    },
+    {
+      "code": "DECO5050S_3714",
+      "name": "Cushion 50*50 ME30 DUPIONE 小抱枕 yellow NEW -AGORA 3714",
+      "available": 9
+    },
+    {
+      "code": "DECO5050S_COM",
+      "name": "Cushion 50*50 小抱枕 来布",
+      "available": 6
+    },
+    {
+      "code": "DECO5050S_ME05",
+      "name": "Cushion 50*50 ME05 TAUPE 小抱枕",
+      "available": 1
+    },
+    {
+      "code": "DECO5050S_ME17",
+      "name": "Cushion 50*50 ME17  GREY 小抱枕",
+      "available": 1
+    },
+    {
+      "code": "DECO5050S_ME20",
+      "name": "Cushion 50*50 ME20 NATTE WHITE 小抱枕",
+      "available": 3
+    },
+    {
+      "code": "DECO5050S_ME21",
+      "name": "Cushion 50*50 ME21 NATTE GREY CHINE 小抱枕",
+      "available": 7
+    },
+    {
+      "code": "DECO5050S_P090",
+      "name": "CUSHION 50*50 PINAMAR BLACK 090 黑色 小抱枕",
+      "available": 16
+    },
+    {
+      "code": "DECO5050S_P161",
+      "name": "CUSHION 50*50 PINAMAR TAUPE 161灰褐色 小抱枕",
+      "available": 10
+    },
+    {
+      "code": "DECO6040S_P090",
+      "name": "CUSHION 60*40 PIANAMAR BLACK 090 黑色 小抱枕",
+      "available": 8
+    },
+    {
+      "code": "DECO6040S_P161",
+      "name": "CUSHION 60*40 PINAMAR TAUPE 161灰褐色 小抱枕",
+      "available": 5
+    },
+    {
+      "code": "DECO6040S_R051",
+      "name": "CUSHION 60*40 RONDINARA ORANGE GREEN 050橙绿色小抱枕",
+      "available": 2
+    },
+    {
+      "code": "DECO6060S_3714",
+      "name": "Cushion 60*60 ME30 DUPIONE小抱枕 yellow NEW -AGORA 3714",
+      "available": 8
+    },
+    {
+      "code": "DECO6060S_ME50",
+      "name": "Cushion 60*60 ME30 DUPIONE小抱枕 yellow NEW-1",
+      "available": 13
+    },
+    {
+      "code": "FRIN3GLSU08",
+      "name": "DINING TABLE GLASS TOP D160CM  - Grey  玻璃台面 （玻璃）",
+      "available": 3
+    },
+    {
+      "code": "FRINL9AL08FA01",
+      "name": "CEILING LAMP D47 H50CM - White  吊灯(铝架+PVC绳+LED灯）",
+      "available": 7
+    },
+    {
+      "code": "KOMF21BASE_LE13",
+      "name": "base sofa KOMFY taupe 棕色",
+      "available": 1
+    },
+    {
+      "code": "KOMF21BASE_PF02",
+      "name": "base sofa KOMFY grey 灰",
+      "available": 2
+    },
+    {
+      "code": "KOMF21BASE_PF04",
+      "name": "PROTO BLACK BASE 200CM 黑",
+      "available": 21
+    },
+    {
+      "code": "KOMF21BASEPF01",
+      "name": "base sofa KOMFY white 白",
+      "available": 5
+    },
+    {
+      "code": "KOMF21CA_ME05",
+      "name": "seat cushion for sofa KOMFY taupe 棕色",
+      "available": 16
+    },
+    {
+      "code": "KOMF21CAME09",
+      "name": "seat cushion for sofa KOMFY white 白",
+      "available": 7
+    },
+    {
+      "code": "KOMF21DOS_LE13",
+      "name": "backrest sofa KOMFY taupe 沙发背棕色",
+      "available": 8
+    },
+    {
+      "code": "KOMF21DOS_PF01",
+      "name": "backrest sofa KOMFY white 沙发背 白色",
+      "available": 7
+    },
+    {
+      "code": "KOMF21DOS_PF02",
+      "name": "backrest sofa KOMFY grey 沙发背 灰色",
+      "available": 3
+    },
+    {
+      "code": "KOMF21DOSRPRP01",
+      "name": "KOMFY 200cm BACKREST in ROPE BEIGE ROPE R28 编织款三人位沙发背(铝框架+圆绳）",
+      "available": 10
+    },
+    {
+      "code": "KOMF21DOSST_ST02",
+      "name": "BACKREST BLACK STRAP BLACK 黑",
+      "available": 38
+    },
+    {
+      "code": "KOMF21HCD_ME21",
+      "name": "back  cushion cover for sofa KOMFY ME21 灰色",
+      "available": 4
+    },
+    {
+      "code": "KOMF22BASE_LE13",
+      "name": "base sofa KOMFY brown",
+      "available": 3
+    },
+    {
+      "code": "KOMF22BASE_PF04",
+      "name": "KOMF BLACK BASE 150 CM 黑",
+      "available": 28
+    },
+    {
+      "code": "KOMF22BASEPF01",
+      "name": "base sofa KOMFY  white 白",
+      "available": 2
+    },
+    {
+      "code": "KOMF22CA_57003",
+      "name": "seat cushion for sofa KOMFY",
+      "available": 1
+    },
+    {
+      "code": "KOMF22CA_ME05",
+      "name": "seat cushion for sofa KOMFY taupe 棕色",
+      "available": 19
+    },
+    {
+      "code": "KOMF22CA_ME09",
+      "name": "seat cushion for sofa KOMFY canvas 白色",
+      "available": 5
+    },
+    {
+      "code": "KOMF22CA_ME17",
+      "name": "seat cushion for sofa KOMFY GREY 灰色",
+      "available": 3
+    },
+    {
+      "code": "KOMF22HOUSSE",
+      "name": "Cover module 150 KOMF with 2 armrests 150座布套",
+      "available": 5
+    },
+    {
+      "code": "KOMF23BASE_PF01",
+      "name": "base lounge chair  KOMFY white",
+      "available": 8
+    },
+    {
+      "code": "KOMF23BASE_PF04",
+      "name": "PROTO BLACK BASE 75 CM 黑",
+      "available": 7
+    },
+    {
+      "code": "KOMF23BASELE13",
+      "name": "base lounge chair KOMFY brown棕",
+      "available": 14
+    },
+    {
+      "code": "KOMF23CA_ME05",
+      "name": "seat cushion for lounge chair KOMFY taupe 棕",
+      "available": 2
+    },
+    {
+      "code": "KOMF23CA_ME17",
+      "name": "seat cushion for lounge chair KOMFY GREY  灰色",
+      "available": 4
+    },
+    {
+      "code": "KOMF23CAME09",
+      "name": "seat cushion for lounge chair  KOMFY canvas 白",
+      "available": 10
+    },
+    {
+      "code": "KOMF23CD_ME05",
+      "name": "back cushion for lounge chair KOMFY taupe",
+      "available": 1
+    },
+    {
+      "code": "KOMF23CD_ME17",
+      "name": "back cushion for lounge chair KOMFY  GREY 灰色",
+      "available": 32
+    },
+    {
+      "code": "KOMF23CDA_ME05",
+      "name": "back angle cushion KOMFY taupe",
+      "available": 1
+    },
+    {
+      "code": "KOMF23CDA_ME09",
+      "name": "back angle cushion KOMFY canvas",
+      "available": 2
+    },
+    {
+      "code": "KOMF23CDME09",
+      "name": "back cushion for lounge chair KOMFY canvas 白",
+      "available": 34
+    },
+    {
+      "code": "KOMF23DSU01",
+      "name": "glass top 745*745 white KOMFY 白",
+      "available": 8
+    },
+    {
+      "code": "KOMF23DSU04",
+      "name": "glass top 745*745 brown KOMFY 棕",
+      "available": 8
+    },
+    {
+      "code": "KOMFACCLE13",
+      "name": "armrest KOMFY brown 棕",
+      "available": 75
+    },
+    {
+      "code": "KOMFACCPF01",
+      "name": "armrest KOMFY white PF01",
+      "available": 17
+    },
+    {
+      "code": "KOMFACCRPRP01",
+      "name": "KOMFY 75cm ARMSREST in ROPE BEIGE ROPE R28 编织扶手(铝框架+圆绳）",
+      "available": 41
+    },
+    {
+      "code": "KOMFDECO6040_ME05",
+      "name": "pillow cushion KOMFY taupe",
+      "available": 10
+    },
+    {
+      "code": "KOMFDOS_PF02",
+      "name": "backrest KOMFY grey 灰色",
+      "available": 6
+    },
+    {
+      "code": "KOMFDOSLE13",
+      "name": "backrest KOMFY brown 棕",
+      "available": 5
+    },
+    {
+      "code": "KOMFDOSPF01",
+      "name": "backrest KOMFY white 白",
+      "available": 2
+    },
+    {
+      "code": "KOMFDOSRPRP01",
+      "name": "KOMFY 150cm BACKREST in ROPE BEIGE ROPE R28 编织款两人位沙发背(铝框架+圆绳",
+      "available": 10
+    },
+    {
+      "code": "KOMFDOSST_ST02",
+      "name": "BACKREST STRAP",
+      "available": 21
+    },
+    {
+      "code": "KOMFHOUSSE4",
+      "name": "Cover composition 4 KOMF 组合4布套",
+      "available": 5
+    },
+    {
+      "code": "KOMFHOUSSE5",
+      "name": "Cover composition 5 KOMF 组合5布套",
+      "available": 5
+    },
+    {
+      "code": "KOMFPIED_AL03",
+      "name": "set of 2 legs KOMFY  SILVER 铝脚2个 银色",
+      "available": 12
+    },
+    {
+      "code": "KOMFPIED_AL08",
+      "name": "set of 2 legs KOMFY  MAT GREY 铝脚2个 灰色",
+      "available": 6
+    },
+    {
+      "code": "KOMFPIED_LE04",
+      "name": "set of 2 legs KOMFY   BLACK 铝脚2个 黑色",
+      "available": 52
+    },
+    {
+      "code": "KOMFPIED_YA04",
+      "name": "set of 2 legs KOMFY 不锈钢脚2个",
+      "available": 16
+    },
+    {
+      "code": "KOMFPIEDAL02",
+      "name": "set of 2 legs KOMFY  taupe  铝脚2个 棕色",
+      "available": 22
+    },
+    {
+      "code": "KOMFPIEDAL04",
+      "name": "set of 2 legs KOMFY  WHITE MATT  铝脚2个  灰白",
+      "available": 2
+    },
+    {
+      "code": "KONI11LE04",
+      "name": "Dining table KONIC extension black 铝拉伸餐台黑",
+      "available": 1
+    },
+    {
+      "code": "KORO120GL_SU04",
+      "name": "KORO120GL  04Glass  tops",
+      "available": 1
+    },
+    {
+      "code": "KORO120GLSU01",
+      "name": "KORO GLASS TOP D120 WHITE",
+      "available": 1
+    },
+    {
+      "code": "KORO3_AL04",
+      "name": "PIETEMENT TABLE DIAM 120/140-KORO3 WHITE",
+      "available": 4
+    },
+    {
+      "code": "KROS212223SOCK",
+      "name": "protection of seat and back cushion sock KROS212223 坐背 防水白布套带拉链",
+      "available": 50
+    },
+    {
+      "code": "KWAD90HOUSSE",
+      "name": "Cover for KWAD8S table 布套",
+      "available": 1
+    },
+    {
+      "code": "MAGI24_VI32",
+      "name": "MAGIC MUSHROOM LIGHT GREY浅灰",
+      "available": 1
+    },
+    {
+      "code": "NABAB22",
+      "name": "NABAB TEAK SOFA",
+      "available": 3
+    },
+    {
+      "code": "OSKA15DS_VI20",
+      "name": "SYNTEAK TOP OSKA18-15  塑木台面",
+      "available": 12
+    },
+    {
+      "code": "OSKA15GL_SU01",
+      "name": "GLASS TOP OSKA18-15 WHITE 玻璃台面 白色",
+      "available": 7
+    },
+    {
+      "code": "OSKA15GL_SU04",
+      "name": "GLASS TOP OSKA18-15  CHANVRE 玻璃台面 麻色",
+      "available": 4
+    },
+    {
+      "code": "OSKA15PIED_AL08",
+      "name": "SQUARE TABLE 80*80 OSKA FOOT MAT GREY ALU 铝台脚灰色",
+      "available": 1
+    },
+    {
+      "code": "OSKA15PIEDAL02",
+      "name": "SQUARE TABLE 80*80 OSKA FOOT MOKA ALU AL02 铝台脚",
+      "available": 4
+    },
+    {
+      "code": "OSKA15PIEDAL04",
+      "name": "SQUARE TABLE 80*80 OSKA FOOT MAT WHITE ALU AL04 铝台脚",
+      "available": 6
+    },
+    {
+      "code": "OSKA32_VI20",
+      "name": "塑料木小方盘 Synteak for OSKA34BC",
+      "available": 5
+    },
+    {
+      "code": "OSKA34N_AL04",
+      "name": "脚踏/茶几 ottoman table new",
+      "available": 1
+    },
+    {
+      "code": "OSKA7AL08PF02",
+      "name": "OSKAR7 FOLDING CHAIR GREY",
+      "available": 29
+    },
+    {
+      "code": "OUTL100145CAD_ME21",
+      "name": "LOUNGE CHAIR RIGHT ARM SEAT AND BACK ME21",
+      "available": 31
+    },
+    {
+      "code": "OUTLDECO3_PN72",
+      "name": "SET DECO CUSHION PN72",
+      "available": 15
+    },
+    {
+      "code": "OUTLDECO3_PN73",
+      "name": "SET DECO CUSHION PN73",
+      "available": 9
+    },
+    {
+      "code": "OUTLDECO3_PN74",
+      "name": "SET DECO CUSHION PN74",
+      "available": 9
+    },
+    {
+      "code": "PHEN21_AL02_ST04",
+      "name": "LOVE SEAT PHENIKS MOKA  ALU. TAUPE STRAP",
+      "available": 3
+    },
+    {
+      "code": "PHEN21H",
+      "name": "COVER FOR PHEN21",
+      "available": 4
+    },
+    {
+      "code": "PHEN23_AL02_ST04",
+      "name": "Louge chair  moka alu taupe straps",
+      "available": 1
+    },
+    {
+      "code": "PHEN4S_AL02_ST04",
+      "name": "STACKABLE armchair  moka alu taupe straps",
+      "available": 20
+    },
+    {
+      "code": "PHEN5S_AL02_ST04",
+      "name": "STACKABLE chair  moka alu taupe straps 51*57*85cm",
+      "available": 2
+    },
+    {
+      "code": "PHEN5S_AL04_ST01",
+      "name": "STACKABLE chair  mat white alu. white straps 白色",
+      "available": 2
+    },
+    {
+      "code": "RIRA1C_CE07",
+      "name": "GF-LH32030 （象牙白哑面）椭圆",
+      "available": 4
+    },
+    {
+      "code": "RIRA1D_SU01",
+      "name": "RIRA glass  TOP SU01",
+      "available": 2
+    },
+    {
+      "code": "RIRA1D_SU08",
+      "name": "RIRA glass  TOP SU08",
+      "available": 2
+    },
+    {
+      "code": "RIRA26_AL04_TW06",
+      "name": "RIVIERA  BIG COCKTAIL TABLE WITH COATED WHITE TOP",
+      "available": 1
+    },
+    {
+      "code": "RIRA36C_CE07",
+      "name": "CERAMIC TOP FOR RIRA36 CE07 WHITE",
+      "available": 1
+    },
+    {
+      "code": "RIRA36FR_TW04",
+      "name": "RIVIERA TABLE BASE 160*80*H35 GREY",
+      "available": 1
+    },
+    {
+      "code": "RIRA3C_CE07",
+      "name": "GF-LH32030 （象牙白哑面）3C  CE07",
+      "available": 4
+    },
+    {
+      "code": "RIRAL4_TW08",
+      "name": "LIGHTING SALT  WHITE灰色绳",
+      "available": 10
+    },
+    {
+      "code": "RIRAL4_TW09",
+      "name": "LIGHTING PEPPER DARK  GREY棕色绳",
+      "available": 13
+    },
+    {
+      "code": "SOFT4545_I34_M6",
+      "name": "SOFT4545 抱枕 I34蓝色",
+      "available": 3
+    },
+    {
+      "code": "SOFT6565_I34_M6",
+      "name": "SOFT6565 抱枕 I34蓝色",
+      "available": 5
+    },
+    {
+      "code": "TAMTAMTM01",
+      "name": "OTTOMAN  GREY 红 黑 灰  铝+涤纶织带",
+      "available": 45
+    },
+    {
+      "code": "TAMTAMTM03",
+      "name": "TAMTAM BLUE 蓝色 TM03  铝+涤纶织带",
+      "available": 47
+    },
+    {
+      "code": "TAMTAMTM05",
+      "name": "TAMTAM GREEN 绿色 TM05 铝+涤纶织带",
+      "available": 39
+    },
+    {
+      "code": "TAMTAMTM06",
+      "name": "TAMTAM RED/KHAKI 红/卡其色 TM06  铝+涤纶织带",
+      "available": 54
+    },
+    {
+      "code": "UMB210_UM01",
+      "name": "UMBRELLA WHITE 白色遮阳伞",
+      "available": 4
+    },
+    {
+      "code": "UMB210_UM02",
+      "name": "UMBRELLA BLUE 蓝色遮阳伞",
+      "available": 1
+    },
+    {
+      "code": "UMBBASE",
+      "name": "UMBRELLA  BASE 遮阳伞底座",
+      "available": 6
+    },
+    {
+      "code": "CLOV16PIEDAL02",
+      "name": "",
+      "available": 15
+    },
+    {
+      "code": "CLOV16PIEDAL04",
+      "name": "",
+      "available": 20
+    },
+    {
+      "code": "CLOV16PIEDAL08",
+      "name": "",
+      "available": 15
+    },
+    {
+      "code": "CLOV16PIEDLE04",
+      "name": "",
+      "available": 15
+    },
+    {
+      "code": "CLOV16CTR7",
+      "name": "",
+      "available": 20
+    },
+    {
+      "code": "CLOV16CCE05",
+      "name": "",
+      "available": 20
+    },
+    {
+      "code": "CLOV16CCCE06",
+      "name": "",
+      "available": 20
+    },
+    {
+      "code": "CLOV27FRAL04",
+      "name": "",
+      "available": 20
+    },
+    {
+      "code": "CLOV27CTR7",
+      "name": "",
+      "available": 15
+    },
+    {
+      "code": "CLOV27CCE10",
+      "name": "",
+      "available": 5
+    }
+  ]
+}
