@@ -5,18 +5,11 @@ const STATUS = {
   stopped: "暂停销售",
 };
 
-const EDITABLE_STATUSES = ["in_stock", "in_production", "stopped"];
-
-const LOCAL_ADMIN_PASSWORD = "sifas2025";
-const STATUS_STORAGE_KEY = "sifas-statuses-inventory-20260422";
 const REFRESH_INTERVAL_MS = 60 * 1000;
 
 let products = [];
 let activeStatus = "all";
 let activeSeries = "all";
-let adminMode = false;
-let adminSessionPassword = "";
-let apiAvailable = false;
 
 const grid = document.querySelector("#productGrid");
 const template = document.querySelector("#productTemplate");
@@ -24,16 +17,11 @@ const searchInput = document.querySelector("#searchInput");
 const statusTabs = document.querySelector("#statusTabs");
 const seriesTabs = document.querySelector("#seriesTabs");
 const emptyState = document.querySelector("#emptyState");
-const adminPanel = document.querySelector("#adminPanel");
 const stockModal = document.querySelector("#stockModal");
 const stockTitle = document.querySelector("#stockTitle");
 const stockSeries = document.querySelector("#stockSeries");
 const stockSubtitle = document.querySelector("#stockSubtitle");
 const stockConfigList = document.querySelector("#stockConfigList");
-const adminModal = document.querySelector("#adminModal");
-const adminPassword = document.querySelector("#adminPassword");
-const adminError = document.querySelector("#adminError");
-const adminToggle = document.querySelector("#adminToggle");
 
 function money(value) {
   return `¥${Number(value).toLocaleString("zh-CN")}`;
@@ -108,9 +96,7 @@ async function loadProducts() {
       const response = await fetch("/api/products");
       if (!response.ok) throw new Error("api unavailable");
       products = await response.json();
-      apiAvailable = true;
     } catch {
-      apiAvailable = false;
       if (Array.isArray(window.SIFAS_PRODUCTS)) {
         products = structuredClone(window.SIFAS_PRODUCTS);
       } else {
@@ -119,32 +105,8 @@ async function loadProducts() {
       }
     }
   }
-  applyLocalStatuses();
-  updateAdminAvailability();
   renderTabs();
   render();
-}
-
-function updateAdminAvailability() {
-  const canUseLocalAdmin = window.location.protocol === "file:";
-  adminToggle.hidden = !(apiAvailable || canUseLocalAdmin);
-  if (adminToggle.hidden && adminMode) {
-    adminMode = false;
-    adminSessionPassword = "";
-    adminPanel.hidden = true;
-  }
-}
-
-function applyLocalStatuses() {
-  try {
-    const statuses = JSON.parse(localStorage.getItem(STATUS_STORAGE_KEY) || "{}");
-    products = products.map((product) => ({
-      ...product,
-      statusOverride: statuses[product.ref] || product.statusOverride,
-    }));
-  } catch {
-    // Ignore broken local state and keep the product data readable.
-  }
 }
 
 function renderTabs() {
@@ -195,7 +157,6 @@ function getFilteredProducts() {
 function render() {
   const filtered = getFilteredProducts();
   grid.innerHTML = "";
-  document.body.classList.toggle("admin-on", adminMode);
   document.querySelector("#totalCount").textContent = products.length;
   document.querySelector("#stockCount").textContent = products.filter((product) => productStatus(product) === "in_stock").length;
   document.querySelector("#updatedAt").textContent = todayLabel();
@@ -224,15 +185,6 @@ function render() {
         .join(" · ");
     }
     node.querySelector(".image-button").addEventListener("click", () => openStockModal(product));
-    const editor = node.querySelector(".status-editor");
-    EDITABLE_STATUSES.forEach((value) => {
-      const button = document.createElement("button");
-      button.type = "button";
-      button.className = `status-option${status === value ? " active" : ""}`;
-      button.textContent = STATUS[value];
-      button.addEventListener("click", () => updateStatus(product.ref, value));
-      editor.appendChild(button);
-    });
     grid.appendChild(node);
   });
 }
@@ -252,7 +204,7 @@ function openStockModal(product) {
       stockConfigList.appendChild(makeConfigItem(configSummary(config), config.note || "完整配置可售", "现货"));
     });
   } else if (hasManualOverride) {
-    stockConfigList.appendChild(makeConfigItem("已手动设置状态", "当前以管理模式设置为准", STATUS[status]));
+    stockConfigList.appendChild(makeConfigItem("已设置为暂停销售", "当前以发布状态为准", STATUS[status]));
   } else if (configurations.length > 0) {
     stockConfigList.appendChild(makeConfigItem("暂无完整现货配置", "部分框架或桌面缺货，暂不能凑成完整产品", STATUS[status]));
   } else {
@@ -278,99 +230,11 @@ function makeConfigItem(title, note, statusText) {
 
 function closeModals() {
   stockModal.hidden = true;
-  adminModal.hidden = true;
   document.body.classList.remove("modal-open");
 }
 
-async function updateStatus(ref, status) {
-  const product = products.find((item) => item.ref === ref);
-  if (!product) return;
-  const previousStatus = product.statusOverride;
-  product.statusOverride = status;
-  render();
-
-  try {
-    const response = await fetch("/api/status", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ ref, status, password: adminSessionPassword }),
-    });
-    if (!response.ok) throw new Error("status update rejected");
-  } catch {
-    if (window.location.protocol !== "file:") {
-      product.statusOverride = previousStatus;
-      adminMode = false;
-      adminPanel.hidden = true;
-      adminError.hidden = false;
-      adminModal.hidden = false;
-      document.body.classList.add("modal-open");
-      render();
-      return;
-    }
-    localStorage.setItem(STATUS_STORAGE_KEY, JSON.stringify(Object.fromEntries(
-      products.filter((item) => item.statusOverride).map((item) => [item.ref, item.statusOverride]),
-    )));
-  }
-}
-
-document.querySelector("#adminToggle").addEventListener("click", () => {
-  if (adminMode) {
-    adminMode = false;
-    adminPanel.hidden = true;
-    render();
-    return;
-  }
-  adminModal.hidden = false;
-  adminError.hidden = true;
-  adminPassword.value = "";
-  document.body.classList.add("modal-open");
-  adminPassword.focus();
-});
-
-document.querySelector("#confirmAdmin").addEventListener("click", async () => {
-  const password = adminPassword.value;
-  let authenticated = password === LOCAL_ADMIN_PASSWORD && window.location.protocol === "file:";
-
-  if (!authenticated && window.location.protocol !== "file:") {
-    try {
-      const response = await fetch("/api/auth", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ password }),
-      });
-      authenticated = response.ok;
-    } catch {
-      authenticated = false;
-    }
-  }
-
-  if (authenticated) {
-    adminSessionPassword = password;
-    adminMode = true;
-    adminPanel.hidden = false;
-    closeModals();
-    render();
-    return;
-  }
-
-  adminError.hidden = false;
-});
-
-adminPassword.addEventListener("keydown", (event) => {
-  if (event.key === "Enter") {
-    document.querySelector("#confirmAdmin").click();
-  }
-});
-
-document.querySelector("#exitAdmin").addEventListener("click", () => {
-  adminMode = false;
-  adminSessionPassword = "";
-  adminPanel.hidden = true;
-  render();
-});
-
 searchInput.addEventListener("input", render);
-document.querySelectorAll("[data-close-modal], [data-close-admin]").forEach((button) => {
+document.querySelectorAll("[data-close-modal]").forEach((button) => {
   button.addEventListener("click", closeModals);
 });
 document.addEventListener("keydown", (event) => {
@@ -380,6 +244,6 @@ document.addEventListener("keydown", (event) => {
 loadProducts();
 
 setInterval(() => {
-  if (window.location.protocol === "file:" || document.hidden || adminMode) return;
+  if (window.location.protocol === "file:" || document.hidden) return;
   loadProducts();
 }, REFRESH_INTERVAL_MS);

@@ -12,14 +12,13 @@
         <p class="eyebrow">SIFAS STOCK</p>
         <h1>现货查询</h1>
       </div>
-      <button class="ghost-button" id="adminToggle" type="button">管理</button>
     </header>
 
     <main>
       <section class="brand-hero">
         <div>
           <p>SIFAS</p>
-          <h2>2025 STOCK</h2>
+          <h2>2026 STOCK</h2>
         </div>
         <span>家具现货目录</span>
       </section>
@@ -48,14 +47,6 @@
         <div class="scroll-tabs series-tabs" id="seriesTabs"></div>
       </section>
 
-      <section class="admin-panel" id="adminPanel" hidden>
-        <div class="admin-copy">
-          <strong>管理模式</strong>
-          <span>修改状态后会保存到本地服务端数据。</span>
-        </div>
-        <button class="ghost-button" id="exitAdmin" type="button">退出</button>
-      </section>
-
       <section class="product-grid" id="productGrid" aria-live="polite"></section>
       <p class="empty" id="emptyState" hidden>没有找到匹配的产品。</p>
     </main>
@@ -67,7 +58,6 @@
             <img alt="" loading="lazy" />
             <span class="status-badge"></span>
           </button>
-          <div class="status-editor" aria-label="修改状态"></div>
         </div>
         <div class="product-body">
           <div class="meta-row">
@@ -98,21 +88,6 @@
         <h2 id="stockTitle"></h2>
         <p class="modal-subtitle" id="stockSubtitle"></p>
         <div class="config-list" id="stockConfigList"></div>
-      </section>
-    </div>
-
-    <div class="modal" id="adminModal" hidden>
-      <div class="modal-backdrop" data-close-admin></div>
-      <section class="modal-sheet compact-sheet" role="dialog" aria-modal="true" aria-labelledby="adminTitle">
-        <button class="modal-close" type="button" data-close-admin>关闭</button>
-        <p class="modal-kicker">SIFAS ADMIN</p>
-        <h2 id="adminTitle">进入管理模式</h2>
-        <label class="admin-password">
-          <span>管理密码</span>
-          <input id="adminPassword" type="password" autocomplete="current-password" placeholder="请输入密码" />
-        </label>
-        <p class="admin-error" id="adminError" hidden>密码不正确。</p>
-        <button class="primary-button" id="confirmAdmin" type="button">确认进入</button>
       </section>
     </div>
 

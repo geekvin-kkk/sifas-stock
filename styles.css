@@ -239,27 +239,6 @@ main {
   color: white;
 }
 
-.admin-panel {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 14px;
-  margin-top: 12px;
-  padding: 12px 14px;
-  border: 1px solid #d9c79e;
-  border-radius: var(--radius);
-  background: #fff7df;
-}
-
-.admin-copy {
-  display: grid;
-  gap: 3px;
-}
-
-.admin-copy span {
-  color: var(--muted);
-  font-size: 12px;
-}
 
 .product-grid {
   display: grid;
@@ -308,9 +287,6 @@ main {
   cursor: zoom-in;
 }
 
-.admin-on .image-wrap {
-  aspect-ratio: 16 / 9;
-}
 
 .image-wrap img {
   position: absolute;
@@ -410,43 +386,6 @@ dd {
   font-weight: 560;
 }
 
-.status-editor {
-  display: none;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 5px;
-}
-
-.admin-on .status-editor {
-  display: grid;
-  position: absolute;
-  right: 8px;
-  bottom: 8px;
-  left: 8px;
-  z-index: 2;
-}
-
-.status-option {
-  min-width: 0;
-  min-height: 30px;
-  border: 1px solid rgba(217, 208, 193, 0.9);
-  border-radius: 999px;
-  background: rgba(255, 250, 241, 0.94);
-  color: var(--muted);
-  padding: 0 6px;
-  font-size: 11px;
-  box-shadow: 0 8px 18px rgba(22, 21, 18, 0.09);
-  white-space: nowrap;
-}
-
-.status-option.active {
-  border-color: var(--charcoal);
-  background: var(--charcoal);
-  color: #fffaf1;
-}
-
-.status-option:active {
-  transform: translateY(1px);
-}
 
 .empty {
   margin: 38px 0;
@@ -557,32 +496,6 @@ dd {
   white-space: nowrap;
 }
 
-.admin-password {
-  display: grid;
-  gap: 7px;
-  margin-top: 18px;
-}
-
-.admin-password span {
-  color: var(--muted);
-  font-size: 12px;
-}
-
-.admin-password input {
-  height: 42px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: #fffaf1;
-  color: var(--ink);
-  padding: 0 12px;
-  outline: none;
-}
-
-.admin-error {
-  margin: 8px 0 0;
-  color: var(--red);
-  font-size: 12px;
-}
 
 .primary-button {
   width: 100%;
