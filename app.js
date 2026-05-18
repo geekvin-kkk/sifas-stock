@@ -78,7 +78,7 @@ function configSummary(config) {
 }
 
 function todayLabel() {
-  return new Intl.DateTimeFormat("zh-CN", { month: "2-digit", day: "2-digit" }).format(new Date());
+  return "05/19";
 }
 
 function compactDimensions(value) {
