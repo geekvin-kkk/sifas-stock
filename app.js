@@ -78,7 +78,7 @@ function configSummary(config) {
 }
 
 function todayLabel() {
-  return "05/19";
+  return "06/02";
 }
 
 function compactDimensions(value) {
