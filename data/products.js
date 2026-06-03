@@ -84,11 +84,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "灰色织带",
         "status": "in_stock",
-        "quantity": 9,
+        "quantity": 5,
         "sourceCodes": [
           "BASK25AL08LY03"
         ],
-        "note": "可用 9 · 灰色 / 灰色织带"
+        "note": "可用 5 · 灰色 / 灰色织带"
       }
     ],
     "stockNote": "1 个完整现货配置"
@@ -242,11 +242,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "灰色织带",
         "status": "in_stock",
-        "quantity": 24,
+        "quantity": 16,
         "sourceCodes": [
           "BASK4AL08LY03"
         ],
-        "note": "可用 24 · 灰色 / 灰色织带"
+        "note": "可用 16 · 灰色 / 灰色织带"
       }
     ],
     "stockNote": "1 个完整现货配置"
@@ -411,11 +411,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "浅灰 / 橙色",
         "status": "in_stock",
-        "quantity": 9,
+        "quantity": 7,
         "sourceCodes": [
           "BIGROLL21_VI32_VI35"
         ],
-        "note": "可用 9 · 浅灰 / 橙色"
+        "note": "可用 7 · 浅灰 / 橙色"
       }
     ],
     "stockNote": "1 个完整现货配置"
@@ -915,11 +915,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "白色绳编",
         "status": "in_stock",
-        "quantity": 10,
+        "quantity": 7,
         "sourceCodes": [
           "FRIN29_AL04_FA01"
         ],
-        "note": "可用 10 · 白色 / 白色绳编"
+        "note": "可用 7 · 白色 / 白色绳编"
       },
       {
         "variantId": "FRIN29_AL04_FA02",
@@ -929,28 +929,14 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "白/深灰绳编",
         "status": "in_stock",
-        "quantity": 8,
+        "quantity": 5,
         "sourceCodes": [
           "FRIN29_AL04_FA02"
         ],
-        "note": "可用 8 · 白色 / 白/深灰绳编"
-      },
-      {
-        "variantId": "FRIN29_AL04_FA03",
-        "productRef": "FRIN29",
-        "frameColor": "白色",
-        "tabletopType": "",
-        "tabletopColor": "",
-        "material": "蓝绿/白绳编",
-        "status": "in_stock",
-        "quantity": 2,
-        "sourceCodes": [
-          "FRIN29_AL04_FA03"
-        ],
-        "note": "可用 2 · 白色 / 蓝绿/白绳编"
+        "note": "可用 5 · 白色 / 白/深灰绳编"
       }
     ],
-    "stockNote": "3 个完整现货配置"
+    "stockNote": "2 个完整现货配置"
   },
   {
     "id": "frin30",
@@ -1033,11 +1019,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "白色绳编",
         "status": "in_stock",
-        "quantity": 17,
+        "quantity": 14,
         "sourceCodes": [
           "FRIN27_AL04_FA01"
         ],
-        "note": "可用 17 · 白色 / 白色绳编"
+        "note": "可用 14 · 白色 / 白色绳编"
       },
       {
         "variantId": "FRIN27_AL11_FA04",
@@ -1047,11 +1033,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "土耳其蓝绳编",
         "status": "in_stock",
-        "quantity": 8,
+        "quantity": 5,
         "sourceCodes": [
           "FRIN27_AL11_FA04"
         ],
-        "note": "可用 8 · 土耳其蓝 / 土耳其蓝绳编"
+        "note": "可用 5 · 土耳其蓝 / 土耳其蓝绳编"
       },
       {
         "variantId": "FRIN27_AL12_FA05",
@@ -1061,11 +1047,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "蓝色绳编",
         "status": "in_stock",
-        "quantity": 7,
+        "quantity": 4,
         "sourceCodes": [
           "FRIN27_AL12_FA05"
         ],
-        "note": "可用 7 · 蓝色 / 蓝色绳编"
+        "note": "可用 4 · 蓝色 / 蓝色绳编"
       }
     ],
     "stockNote": "3 个完整现货配置"
@@ -1356,27 +1342,12 @@ window.SIFAS_PRODUCTS = [
     "dimensions": "181 x 91 x 77 cm",
     "price": 40380,
     "currency": "¥",
-    "status": "in_stock",
+    "status": "in_production",
     "image": "assets/products/p048_01.jpg",
     "sourcePage": 48,
     "sourceNote": "PDF 自动提取",
-    "availableConfigurations": [
-      {
-        "variantId": "KALI21RAL08LY03",
-        "productRef": "KALI21R",
-        "frameColor": "灰色",
-        "tabletopType": "",
-        "tabletopColor": "",
-        "material": "灰色织带",
-        "status": "in_stock",
-        "quantity": 3,
-        "sourceCodes": [
-          "KALI21RAL08LY03"
-        ],
-        "note": "可用 3 · 灰色 / 灰色织带"
-      }
-    ],
-    "stockNote": "1 个完整现货配置"
+    "availableConfigurations": [],
+    "stockNote": "库存表未匹配到完整现货配置"
   },
   {
     "id": "kali23",
@@ -1387,27 +1358,12 @@ window.SIFAS_PRODUCTS = [
     "dimensions": "91 x 90 x 77 cm",
     "price": 20570,
     "currency": "¥",
-    "status": "in_stock",
+    "status": "in_production",
     "image": "assets/products/p048_02.jpg",
     "sourcePage": 48,
     "sourceNote": "PDF 自动提取",
-    "availableConfigurations": [
-      {
-        "variantId": "KALI23AL08LY03",
-        "productRef": "KALI23",
-        "frameColor": "灰色",
-        "tabletopType": "",
-        "tabletopColor": "",
-        "material": "灰色织带",
-        "status": "in_stock",
-        "quantity": 2,
-        "sourceCodes": [
-          "KALI23AL08LY03"
-        ],
-        "note": "可用 2 · 灰色 / 灰色织带"
-      }
-    ],
-    "stockNote": "1 个完整现货配置"
+    "availableConfigurations": [],
+    "stockNote": "库存表未匹配到完整现货配置"
   },
   {
     "id": "kali24",
@@ -2100,7 +2056,7 @@ window.SIFAS_PRODUCTS = [
           "KONI8FR_AL04",
           "KWAD8GL_SU04"
         ],
-        "note": "可售 2 · 底座 2 / 桌面 4"
+        "note": "可售 2 · 底座 2 / 桌面 2"
       },
       {
         "variantId": "KONI8FR_AL08+KONI8GLSU01",
@@ -2145,7 +2101,7 @@ window.SIFAS_PRODUCTS = [
           "KONI8FR_AL08",
           "KWAD8GL_SU04"
         ],
-        "note": "可售 1 · 底座 1 / 桌面 4"
+        "note": "可售 1 · 底座 1 / 桌面 2"
       },
       {
         "variantId": "KONI8FR_FW01+KONI8GLSU01",
@@ -2190,7 +2146,7 @@ window.SIFAS_PRODUCTS = [
           "KONI8FR_FW01",
           "KWAD8GL_SU04"
         ],
-        "note": "可售 2 · 底座 2 / 桌面 4"
+        "note": "可售 2 · 底座 2 / 桌面 2"
       },
       {
         "variantId": "KWAD8FR_AL08+KONI8GLSU01",
@@ -2230,12 +2186,12 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "摩卡玻璃",
         "material": "",
         "status": "in_stock",
-        "quantity": 3,
+        "quantity": 2,
         "sourceCodes": [
           "KWAD8FR_AL08",
           "KWAD8GL_SU04"
         ],
-        "note": "可售 3 · 底座 3 / 桌面 4"
+        "note": "可售 2 · 底座 3 / 桌面 2"
       }
     ],
     "stockNote": "12 个完整现货配置"
@@ -2642,27 +2598,12 @@ window.SIFAS_PRODUCTS = [
     "dimensions": "65 x 65 x 55 cm",
     "price": 4180,
     "currency": "¥",
-    "status": "in_stock",
+    "status": "in_production",
     "image": "assets/products/p090_01.jpg",
     "sourcePage": 90,
     "sourceNote": "PDF 自动提取",
-    "availableConfigurations": [
-      {
-        "variantId": "KROS27WLE04",
-        "productRef": "KROS27W",
-        "frameColor": "黑色",
-        "tabletopType": "",
-        "tabletopColor": "",
-        "material": "",
-        "status": "in_stock",
-        "quantity": 3,
-        "sourceCodes": [
-          "KROS27WLE04"
-        ],
-        "note": "可用 3 · 黑色"
-      }
-    ],
-    "stockNote": "1 个完整现货配置"
+    "availableConfigurations": [],
+    "stockNote": "库存表未匹配到完整现货配置"
   },
   {
     "id": "kwad23s",
@@ -2693,20 +2634,6 @@ window.SIFAS_PRODUCTS = [
         "note": "可用 6 · 灰色 / 灰色网布"
       },
       {
-        "variantId": "KWAD23SAL02LE13",
-        "productRef": "KWAD23S",
-        "frameColor": "摩卡色",
-        "tabletopType": "",
-        "tabletopColor": "",
-        "material": "",
-        "status": "in_stock",
-        "quantity": 1,
-        "sourceCodes": [
-          "KWAD23SAL02LE13"
-        ],
-        "note": "可用 1 · 摩卡色"
-      },
-      {
         "variantId": "KWAD23SAL04PF01",
         "productRef": "KWAD23S",
         "frameColor": "白色",
@@ -2714,14 +2641,14 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "白色网布",
         "status": "in_stock",
-        "quantity": 6,
+        "quantity": 1,
         "sourceCodes": [
           "KWAD23SAL04PF01"
         ],
-        "note": "可用 6 · 白色 / 白色网布"
+        "note": "可用 1 · 白色 / 白色网布"
       }
     ],
-    "stockNote": "3 个完整现货配置"
+    "stockNote": "2 个完整现货配置"
   },
   {
     "id": "kwad25s",
@@ -2804,11 +2731,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "",
         "status": "in_stock",
-        "quantity": 22,
+        "quantity": 6,
         "sourceCodes": [
           "KWAD4SAL02LE13"
         ],
-        "note": "可用 22 · 摩卡色"
+        "note": "可用 6 · 摩卡色"
       }
     ],
     "stockNote": "2 个完整现货配置"
@@ -2849,28 +2776,14 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "",
         "status": "in_stock",
-        "quantity": 18,
+        "quantity": 4,
         "sourceCodes": [
           "KWAD5SAL02LE13"
         ],
-        "note": "可用 18 · 摩卡色"
-      },
-      {
-        "variantId": "KWAD5SAL04PF01",
-        "productRef": "KWAD5S",
-        "frameColor": "白色",
-        "tabletopType": "",
-        "tabletopColor": "",
-        "material": "白色网布",
-        "status": "in_stock",
-        "quantity": 2,
-        "sourceCodes": [
-          "KWAD5SAL04PF01"
-        ],
-        "note": "可用 2 · 白色 / 白色网布"
+        "note": "可用 4 · 摩卡色"
       }
     ],
-    "stockNote": "3 个完整现货配置"
+    "stockNote": "2 个完整现货配置"
   },
   {
     "id": "kwad27n",
@@ -2881,27 +2794,12 @@ window.SIFAS_PRODUCTS = [
     "dimensions": "48 x 48 x 33 cm",
     "price": 3130,
     "currency": "¥",
-    "status": "in_stock",
+    "status": "in_production",
     "image": "assets/products/p096_04.jpg",
     "sourcePage": 96,
     "sourceNote": "PDF 自动提取",
-    "availableConfigurations": [
-      {
-        "variantId": "KWAD27NAL02SU04",
-        "productRef": "KWAD27N",
-        "frameColor": "摩卡色",
-        "tabletopType": "玻璃",
-        "tabletopColor": "摩卡玻璃",
-        "material": "",
-        "status": "in_stock",
-        "quantity": 5,
-        "sourceCodes": [
-          "KWAD27NAL02SU04"
-        ],
-        "note": "可用 5 · 摩卡色"
-      }
-    ],
-    "stockNote": "1 个完整现货配置"
+    "availableConfigurations": [],
+    "stockNote": "库存表未匹配到完整现货配置"
   },
   {
     "id": "naba21",
@@ -3186,11 +3084,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "",
         "status": "in_stock",
-        "quantity": 44,
+        "quantity": 10,
         "sourceCodes": [
           "OSKA6AL02LE13"
         ],
-        "note": "可用 44 · 摩卡色"
+        "note": "可用 10 · 摩卡色"
       },
       {
         "variantId": "OSKA6AL04PF01",
@@ -3200,11 +3098,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "白色网布",
         "status": "in_stock",
-        "quantity": 35,
+        "quantity": 10,
         "sourceCodes": [
           "OSKA6AL04PF01"
         ],
-        "note": "可用 35 · 白色 / 白色网布"
+        "note": "可用 10 · 白色 / 白色网布"
       }
     ],
     "stockNote": "2 个完整现货配置"
@@ -4176,20 +4074,6 @@ window.SIFAS_PRODUCTS = [
     "sourceNote": "PDF 自动提取",
     "availableConfigurations": [
       {
-        "variantId": "RIRA4_TW01",
-        "productRef": "RIRA4",
-        "frameColor": "",
-        "tabletopType": "",
-        "tabletopColor": "",
-        "material": "",
-        "status": "in_stock",
-        "quantity": 3,
-        "sourceCodes": [
-          "RIRA4_TW01"
-        ],
-        "note": "可用 3"
-      },
-      {
         "variantId": "RIRA4TW01",
         "productRef": "RIRA4",
         "frameColor": "",
@@ -4204,7 +4088,7 @@ window.SIFAS_PRODUCTS = [
         "note": "可用 16"
       }
     ],
-    "stockNote": "2 个完整现货配置"
+    "stockNote": "1 个完整现货配置"
   },
   {
     "id": "rira4hb",
@@ -4660,11 +4544,11 @@ window.SIFAS_PRODUCTS = [
         "tabletopColor": "",
         "material": "棕色编织",
         "status": "in_stock",
-        "quantity": 2,
+        "quantity": 1,
         "sourceCodes": [
           "YAKI30AL08YA11"
         ],
-        "note": "可用 2 · 灰色 / 棕色编织"
+        "note": "可用 1 · 灰色 / 棕色编织"
       },
       {
         "variantId": "YAKI30AL08YA28",
